@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>bits - বিট ও বাইটস - টেকনোলজি বেসিক</title>
+		<description>বিট ও বাইট সম্পর্কিত সকল তথ্য জানুন</description>
+		<link>http://servereditor.omnibloodbank.tk/bits</link>
+		<lastBuildDate>Tue, 24 Mar 2015 04:50:40 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://servereditor.omnibloodbank.tk/bits?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Bandwidth</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/bandwidth</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/bandwidth</guid>
+			<description><![CDATA[<p>Bandwidth(ব্যান্ডউইথ) বলতে  একটি নেটওয়ার্ক বা মডেম কানেকশনের মধ্য দিয়ে  কি পরিমাণ ডাটা প্রেরিত হচ্ছে তা বোঝায়। এটি সাধারণত "বিটস পার সেকেন্ড"  বা  bps দ্বারা পরিমাপ করা হয়। ব্যান্ডউইথকে একটি হাইওয়ের মধ্য দিয়ে কার <span class="text_exposed_hide">...</span><span class="text_exposed_show">চলাচল  দ্বারা তুলনা করলে ব্যাপারটি সহজে বোঝা যায়। এখানে হাইওয়ে হচ্ছে নেটওয়ার্ক  আর কার হচ্ছে প্রেরণকৃত ডাটা। হাইওয়ে যত বেশি প্রশস্থ তত বেশি কার একসাথে  চলাচল করতে পারে। তার মানে তত বেশি কার একসাথে নিজের গন্তব্যে পৌছাঁতে  পারে। একই নিয়ম কম্পিউটার ডাটার ক্ষেত্রে প্রযোজ্য। যত বেশি ব্যান্ডউইথ  বেশি ডাটা বা তথ্য একসাথে একটি নির্দিষ্ট সময়ের মধ্যে প্রেরণ করা যায়।</span></p>
+<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/bandwith.jpg" border="0" width="320" height="320" /><br /></span></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:11:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>Baud</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/baud</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/baud</guid>
+			<description><![CDATA[<p>Baud(বাউড) হল ইলেক্ট্রিক্যাল সিগন্যাল পরিমাপক। বিভিন্ন মডেম,  নেটওয়ার্ক কানেকশন, সিরিয়াল কেব্‌ল, ও অন্যান্য ডাটা প্রেরন মাধ্যমে প্রতি  সেকেন্ডে কি পরিমাণ ডাটা প্রেরিত হয় তা এই Baud দ্বারা নির্ণয় করা হয়।</p>
+<p>"বাউড" এবং "বিটস পার সেকেন্ড" একটি আরেকটির সাথে সম্পর্কযুক্ত কিন্তু  দুটো টার্ম এক নয়। আর তাই  "১০০০০ বিট" আর "১০০০০ বাউড" একই নয়। কারণ মডেম  ট্রান্সমিটগুলো পার বাউডে প্রতি বিট ডাটাকে গুণ করতে থাকে। আর বাউড কোন  কানেকশনের মধ্য দিয়ে ডাটার পরিমাণ নির্ণয় করেনা, নির্নয় করে ইলেক্ট্রিক  সিগনাল।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/baud.jpg" border="0" width="307" height="188" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:33:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bit</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/bit-written</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/bit-written</guid>
+			<description><![CDATA[<p>Bit(বিট) শব্দটি "binary digit" শব্দটি থেকে এসেছে। একটি সিংগেল নাম্বার  হল এক বিট। বাইনারী ডিজিটের ভিত্তি হল ২। এর সংখ্যাগুলো হল ০ এবং ১। এখানে  ০ হল এককভাবে একটি বিট এবং ১ হল এককভাবে একটি বিট।</p>
+<p>বিট ও বাইট দুটি ভিন্ন টার্ম। ১ বিট মানে একটি একক নাম্বার, আর ১ বাইট  হল ৮টি বিটের সমন্বয়। সাধারণত বিট শব্দটি ব্যান্ডউইথ পরিমাপের ক্ষেত্রে  ব্যবহৃত হয় এইভাবে "বিটস পার সেকেন্ড"। কেন? হতে পারে এটি আপনার নেটওয়ার্ক  কানেকশনের গতি বোঝাচ্ছে যা আপনি কল্পনা ও করতে পারেন নি।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/bit.jpg" border="0" width="396" height="198" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:40:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bitrate</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/bitrate</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/bitrate</guid>
+			<description><![CDATA[<p>বিটরেট সেই গতিকেই বোঝায় যে গতিতে বিটস একটি নেটওয়ার্ক লোকেশান থেকে  অন্য লোকেশান যাতায়াত করে। অন্যভাবে বলা যায়, একটি নির্দিষ্ট সময়ের মধ্যে  কি পরিমান ডাটা আদান-প্রদান হচ্ছে তা নির্দেশ করে বিটরেট। সাধারণত "বিট পার  সেকেন্ড" বা "bps", "কিলোবিট পার সেকেন্ড" বা "Kbps", এবং "মেগাবিট পার  সেকেন্ড" বা "Mbps"  এই এককগুলো দ্বারা বিটরেট নির্ধারিত হয়।</p>
+<p>উদাহরণস্বরুপঃ একটি DSL সংযোগ "৭৬৮ Kbps" স্পীডে ডাউনলোড করতে সক্ষম,  অন্যদিকে একটি "Firewire 800" সংযোগ "৮০০ Mbps" স্পীডে ডাউনলোড করতে সক্ষম।</p>
+<p>বিটরেট আবার অডিও এবং ভিডিও ফাইলের মান নির্ধারণে ও ব্যবহৃত হয়। যেমনঃ  ১৯২ Kbps  এ কম্প্রেস করা একটি "MP3" অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জ  ১২৮ Kbps এর একটি "MP3" অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জের চাইতে  জোরালো ও পরিষ্কার হবে। তেমনি ১০০০ Kbps এর একটি ভিডিও ফাইলের চেয়ে ৩০০০  Kbps এর একটি ভিডিও ফাইল এর কোয়ালিটি অনেক ভাল হবে। কারণ এই ক্ষেত্রে প্রতি  bps এ বেশি বিট ব্যবহৃত হয়েছে।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/bitrate.jpg" border="0" width="410" height="184" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:44:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blob</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/blob</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/blob</guid>
+			<description><![CDATA[<p>Blob(ব্লব) এর পূর্ণ রূপ হল "Binary Large Object" . এটি ডেটাবেজে তথ্য জমা করার জন্য ব্যবহৃত হয়।</p>
+<p>ব্লব একটি ডাটা টাইপ যা বাইনারী ডাটা জমা করে। এরূপ অনেক ডাটা টাইপ,  যেমনঃ Integer, floating point, character, string এসব ডাটা টাইপ ও  ডেটাবেজে তথ্য জমা করে। তবে ব্লব এদের চাইতে ভিন্ন। কারন এসব ডাটা টাইপ  ডেটাবেজে তথ্য রাখতে অক্ষর ও সংখ্যা ব্যবহার করতে পারে, কিন্তু ব্লব তা  পারেনা। ব্লব শুধু  ০ এবং ১ কেই ব্যবহার করতে পারে। তবে ব্লব ব্যবহার করে  ডেটাবেজে ছবি, অ্যালবাম, অডিও ফাইল, ভিডিও ক্লিপ্স রাখা যায়। সেক্ষেত্রে  ব্লব ডাটা টাইপ অনেক জায়গা নেয়। এমনকি কয়েক গিগাবাইট জায়গাও নিতে পারে। বড়  ডেটাবেজ ব্যবহার হলে সেক্ষেত্রে ব্লবকে বিগ ব্লব বলা হয়।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/blob.png" border="0" width="401" height="218" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:46:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>bps</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/bps</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/bps</guid>
+			<description><![CDATA[<p>bps এর পূর্ণ রূপ হল "বিটস পার সেকেন্ড" বা "bits per second".  এখানে  ছোট হাতের "b" ব্যবহার করা হয়েছে। কারণ ছোট হাতের "b" দ্বারা বোঝায় bit  (বিট) আর বড় হাতের "B" দ্বারা বোঝায় byte(বাইট)। "বিটস পার সেকেন্ড" বা bps  হল একটি নেটওয়ার্কের মধ্য দিয়ে কত দ্রুত ডাটা চলাচল করে তা পরিমাপের একটি  অন্যতম মানদন্ড।</p>
+<p>উদাহরণস্বরূপঃ একটি ৫৬k মডেম প্রতি সেকেন্ডে ৫৬,৭০০ বিটস ডাটা ট্রান্সফার করতে পারে।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/bps.jpg" border="0" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:48:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Byte</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/byte</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/byte</guid>
+			<description><![CDATA[<p>বাইট কম্পিউটারের মেমোরিতে রাখা একটি ক্যারেক্টারকে নির্দেশ করে। ৮ বিটের সমন্বয়ে ১ বাইট গঠিত হয়।</p>
+<p>বিট বিভিন্ন নেটওয়ার্কে ডাটা প্রেরণের গতিকে বোঝায়। কিন্তু বাইট  কম্পিউটারে রাখা ফাইলের সাইজ, হার্ড ড্রাইভ এর জাইয়গার পরিমাণ বা কম্পিউটার  মেমোরির জায়গা নির্দেশ করে। বড় সাইজকে এভাবে বর্ণনা করা হয়ঃ কিলোবাইট,  মেগাবাইট, গিগাবাইট, টেরাবাইট ইত্যাদি।</p>
+<p>উদাহরণস্বরূপঃ ১০২৪ বাইটে ১ কিলোবাইট ।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/bytes_table.gif" border="0" width="393" height="308" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:50:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>CLOB</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/clob</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/clob</guid>
+			<description><![CDATA[<p>CLOB এর পূর্ণরূপ হল "ক্যারেক্টার লার্জ অব্জেক্ট" বা "Character Large  Object."এটি একটি ডাটা টাইপ যা বিভিন্ন "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম"  দ্বারা ব্যবহৃত হয়। যেমন "Oracle" ও "DB2"  ডেটাবেজে এই ডাটা টাইপ ব্যবহৃত  হয়। প্রায় ৪ জিবি পর্যন্ত বড় সাইজের ক্যারেক্টার ডাটা জমা রাখতে এই CLOB  কাজে লাগে।এটি অনেকটা BLOB এর মত, তবে বাড়তি হিসেবে এটি ক্যারেক্টার ডাটা  ডেটাবেজে জমা রাখতে পারে এবং বাইনারী তো পারেই।</p>
+<p>মাঝে মাঝে ডেটাবেজে কিছু পরিবর্তন করতে হয়, যেমনঃ ক্যারেক্টার যোগ করা,  টেক্সট যোগ করা, টেক্সট পরিবর্তন করা ইত্যাদি। সাধারণ ডেটাবেজ ম্যানেজমেন্ট  সিস্টেমে ছোটখাট পরিবর্তন করা যায়। কিন্তু বড় টেক্সট যোগ করা বা বড় ধরণের  পরিবর্তনের জন্য CLOB ব্যবহার করতে হয়। আবার CLOB এর আরেকটি সুবিধা হল এটি  সরাসরি নির্ধারিত স্থানে ডেটাবেজের পরিবর্তন করতে পারে যা অন্যান্য ডেটাবেজ  ম্যানেজমেন্ট সিস্টেম পারেনা।</p>
+<p>তবে এর কিছু অসুবিধা ও আছে। CLOB ফিল্ডে পরিবর্তন করা ডেটাবেজের অনেক  টেক্সট কমান্ড অন্যান্য ডেটাবেজ সিস্টেমে রান করা যায়না। সেক্ষেত্রে সাধারণ  ডেটাবেজ ম্যানেজমেন্ট ব্যবহার করতে হয়।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/clob1.jpg" border="0" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:52:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Data</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/data</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/data</guid>
+			<description><![CDATA[<p>ডাটা বলতে কম্পিউটারে জমাকৃত তথ্যকে বোঝায়। ডাটা বিভিন্ন ধরণের হতে  পারে। যেমনঃ টেক্সট ডকুমেন্ট, ছবি, অডিও ক্লিপস, ভিডিও ক্লিপস, সফটওয়্যার  প্রোগ্রাম বা অন্যান্য ফরম্যাটে ডাটা থাকতে পারে। কম্পিউটারের সিপিইউ  দ্বারা প্রক্রিয়াজাত হয়ে ডাটা ফাইল বা ফোল্ডার দ্বারা কম্পিউটার হার্ড  ড্রাইভে জমা থাকে।</p>
+<p>অন্যভাবে ডাটা হল বাইনারী সংখ্যা ০ এবং ১ এর সমন্বয়। কারণ কম্পিউটার  মেমোরি বাইনারী সংখ্যাকেই পড়তে পারে। তাই মেমোরি সকল প্রকার ডাটাকে ০ এবং ১  এই সাংখ্যিক মানে রূপান্তরিত করে প্রক্রিয়া করে, সংকলন করে এবং সংরক্ষন  করে। একটি কম্পিউটার থেকে আরেকটি কম্পিউটারে ডাটা নেটওয়ার্ক অথবা  এক্সটার্নাল ডিভাইসের মাধ্যমে পাঠানো যায়। অনেকবার ব্যবহারের পর ও ডাটা  নষ্ট হয়ে যায়না।</p>
+<p><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/data.jpg" border="0" width="308" height="463" /></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Thu, 25 Aug 2011 20:56:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>Data Transfer Rate</title>
+			<link>http://servereditor.omnibloodbank.tk/bits/data-transfer-rate</link>
+			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/bits/data-transfer-rate</guid>
+			<description><![CDATA[<p><span class="text_exposed_show">ডাটা ট্রান্সফার রেট সাধারণত এক লোকেশান থেকে অন্য লোকেশানে কত সময়ে ডাটা স্থানান্তর হয় তা নির্দেশ করে। উদাহরণস্বরূপঃ হার্ড ড্রাইভের সর্বোচ্চ ডাটা ট্রান্সফার রেট ৪৮০ Mbps(এম.বি.পি.এস)। আবার একজন ইউজারের ISP(আই.এস.পি)। এর সর্বোচ্চ ডাটা ট্রান্সফার রেট হতে পারে ১.৫ Mbps।<br /> </span></p>
+<p><span class="text_exposed_show">ডাটা ট্রান্সফার রেট "bps"  বা "বিটস পার সেকেন্ড" দ্বারা  পরিমাপ করা যায় । "বাইটস পার সেকেন্ড" এ ও ডাটা ট্রান্সফার রেট পরিমাপ করা যায়। তবে খেয়াল রাখতে হবে ৮ বিটে ১ বাইট। অর্থাৎ ৮০ Mb(মেগা বিট) ডাটা ১ সেকেন্ডে স্থানান্তর হওয়ার অর্থ ১ সেকেন্ডে ১০ MB(মেগা বাইট ) ডাটা স্থানান্তর হওয়া। কিন্তু বেশিরভাগ ইন্টারনেট সার্ভিস প্রদানকারী প্রতিষ্ঠান "bps" বা "বিটস পার সেকেন্ড" এ ডাটা ট্রান্সফার রেট হিসাব করে থাকে।</span></p>
+<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/bit/AM/data transfer.gif" border="0" /><br /></span></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Sun, 28 Aug 2011 02:50:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

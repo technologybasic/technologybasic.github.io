@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">bits - বিট ও বাইটস - টেকনোলজি বেসিক</title>
+	<subtitle type="text">বিট ও বাইট সম্পর্কিত সকল তথ্য জানুন</subtitle>
+	<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk"/>
+	<id>http://servereditor.omnibloodbank.tk/</id>
+	<updated>2015-03-24T04:50:40+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! 1.6 - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://servereditor.omnibloodbank.tk/bits?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Bandwidth</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bandwidth"/>
+		<published>2011-08-25T20:11:06+00:00</published>
+		<updated>2011-08-25T20:11:06+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/bandwidth</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Bandwidth(ব্যান্ডউইথ) বলতে  একটি নেটওয়ার্ক বা মডেম কানেকশনের মধ্য দিয়ে  কি পরিমাণ ডাটা প্রেরিত হচ্ছে তা বোঝায়। এটি সাধারণত &quot;বিটস পার সেকেন্ড&quot;  বা  bps দ্বারা পরিমাপ করা হয়। ব্যান্ডউইথকে একটি হাইওয়ের মধ্য দিয়ে কার &lt;span class=&quot;text_exposed_hide&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;চলাচল  দ্বারা তুলনা করলে ব্যাপারটি সহজে বোঝা যায়। এখানে হাইওয়ে হচ্ছে নেটওয়ার্ক  আর কার হচ্ছে প্রেরণকৃত ডাটা। হাইওয়ে যত বেশি প্রশস্থ তত বেশি কার একসাথে  চলাচল করতে পারে। তার মানে তত বেশি কার একসাথে নিজের গন্তব্যে পৌছাঁতে  পারে। একই নিয়ম কম্পিউটার ডাটার ক্ষেত্রে প্রযোজ্য। যত বেশি ব্যান্ডউইথ  বেশি ডাটা বা তথ্য একসাথে একটি নির্দিষ্ট সময়ের মধ্যে প্রেরণ করা যায়।&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;&lt;img src=&quot;images/bit/AM/bandwith.jpg&quot; border=&quot;0&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Bandwidth(ব্যান্ডউইথ) বলতে  একটি নেটওয়ার্ক বা মডেম কানেকশনের মধ্য দিয়ে  কি পরিমাণ ডাটা প্রেরিত হচ্ছে তা বোঝায়। এটি সাধারণত &quot;বিটস পার সেকেন্ড&quot;  বা  bps দ্বারা পরিমাপ করা হয়। ব্যান্ডউইথকে একটি হাইওয়ের মধ্য দিয়ে কার &lt;span class=&quot;text_exposed_hide&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;চলাচল  দ্বারা তুলনা করলে ব্যাপারটি সহজে বোঝা যায়। এখানে হাইওয়ে হচ্ছে নেটওয়ার্ক  আর কার হচ্ছে প্রেরণকৃত ডাটা। হাইওয়ে যত বেশি প্রশস্থ তত বেশি কার একসাথে  চলাচল করতে পারে। তার মানে তত বেশি কার একসাথে নিজের গন্তব্যে পৌছাঁতে  পারে। একই নিয়ম কম্পিউটার ডাটার ক্ষেত্রে প্রযোজ্য। যত বেশি ব্যান্ডউইথ  বেশি ডাটা বা তথ্য একসাথে একটি নির্দিষ্ট সময়ের মধ্যে প্রেরণ করা যায়।&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;&lt;img src=&quot;images/bit/AM/bandwith.jpg&quot; border=&quot;0&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Baud</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/baud"/>
+		<published>2011-08-25T20:33:56+00:00</published>
+		<updated>2011-08-25T20:33:56+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/baud</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Baud(বাউড) হল ইলেক্ট্রিক্যাল সিগন্যাল পরিমাপক। বিভিন্ন মডেম,  নেটওয়ার্ক কানেকশন, সিরিয়াল কেব্‌ল, ও অন্যান্য ডাটা প্রেরন মাধ্যমে প্রতি  সেকেন্ডে কি পরিমাণ ডাটা প্রেরিত হয় তা এই Baud দ্বারা নির্ণয় করা হয়।&lt;/p&gt;
+&lt;p&gt;&quot;বাউড&quot; এবং &quot;বিটস পার সেকেন্ড&quot; একটি আরেকটির সাথে সম্পর্কযুক্ত কিন্তু  দুটো টার্ম এক নয়। আর তাই  &quot;১০০০০ বিট&quot; আর &quot;১০০০০ বাউড&quot; একই নয়। কারণ মডেম  ট্রান্সমিটগুলো পার বাউডে প্রতি বিট ডাটাকে গুণ করতে থাকে। আর বাউড কোন  কানেকশনের মধ্য দিয়ে ডাটার পরিমাণ নির্ণয় করেনা, নির্নয় করে ইলেক্ট্রিক  সিগনাল।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/baud.jpg&quot; border=&quot;0&quot; width=&quot;307&quot; height=&quot;188&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Baud(বাউড) হল ইলেক্ট্রিক্যাল সিগন্যাল পরিমাপক। বিভিন্ন মডেম,  নেটওয়ার্ক কানেকশন, সিরিয়াল কেব্‌ল, ও অন্যান্য ডাটা প্রেরন মাধ্যমে প্রতি  সেকেন্ডে কি পরিমাণ ডাটা প্রেরিত হয় তা এই Baud দ্বারা নির্ণয় করা হয়।&lt;/p&gt;
+&lt;p&gt;&quot;বাউড&quot; এবং &quot;বিটস পার সেকেন্ড&quot; একটি আরেকটির সাথে সম্পর্কযুক্ত কিন্তু  দুটো টার্ম এক নয়। আর তাই  &quot;১০০০০ বিট&quot; আর &quot;১০০০০ বাউড&quot; একই নয়। কারণ মডেম  ট্রান্সমিটগুলো পার বাউডে প্রতি বিট ডাটাকে গুণ করতে থাকে। আর বাউড কোন  কানেকশনের মধ্য দিয়ে ডাটার পরিমাণ নির্ণয় করেনা, নির্নয় করে ইলেক্ট্রিক  সিগনাল।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/baud.jpg&quot; border=&quot;0&quot; width=&quot;307&quot; height=&quot;188&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Bit</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bit-written"/>
+		<published>2011-08-25T20:40:42+00:00</published>
+		<updated>2011-08-25T20:40:42+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/bit-written</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Bit(বিট) শব্দটি &quot;binary digit&quot; শব্দটি থেকে এসেছে। একটি সিংগেল নাম্বার  হল এক বিট। বাইনারী ডিজিটের ভিত্তি হল ২। এর সংখ্যাগুলো হল ০ এবং ১। এখানে  ০ হল এককভাবে একটি বিট এবং ১ হল এককভাবে একটি বিট।&lt;/p&gt;
+&lt;p&gt;বিট ও বাইট দুটি ভিন্ন টার্ম। ১ বিট মানে একটি একক নাম্বার, আর ১ বাইট  হল ৮টি বিটের সমন্বয়। সাধারণত বিট শব্দটি ব্যান্ডউইথ পরিমাপের ক্ষেত্রে  ব্যবহৃত হয় এইভাবে &quot;বিটস পার সেকেন্ড&quot;। কেন? হতে পারে এটি আপনার নেটওয়ার্ক  কানেকশনের গতি বোঝাচ্ছে যা আপনি কল্পনা ও করতে পারেন নি।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bit.jpg&quot; border=&quot;0&quot; width=&quot;396&quot; height=&quot;198&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Bit(বিট) শব্দটি &quot;binary digit&quot; শব্দটি থেকে এসেছে। একটি সিংগেল নাম্বার  হল এক বিট। বাইনারী ডিজিটের ভিত্তি হল ২। এর সংখ্যাগুলো হল ০ এবং ১। এখানে  ০ হল এককভাবে একটি বিট এবং ১ হল এককভাবে একটি বিট।&lt;/p&gt;
+&lt;p&gt;বিট ও বাইট দুটি ভিন্ন টার্ম। ১ বিট মানে একটি একক নাম্বার, আর ১ বাইট  হল ৮টি বিটের সমন্বয়। সাধারণত বিট শব্দটি ব্যান্ডউইথ পরিমাপের ক্ষেত্রে  ব্যবহৃত হয় এইভাবে &quot;বিটস পার সেকেন্ড&quot;। কেন? হতে পারে এটি আপনার নেটওয়ার্ক  কানেকশনের গতি বোঝাচ্ছে যা আপনি কল্পনা ও করতে পারেন নি।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bit.jpg&quot; border=&quot;0&quot; width=&quot;396&quot; height=&quot;198&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Bitrate</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bitrate"/>
+		<published>2011-08-25T20:44:18+00:00</published>
+		<updated>2011-08-25T20:44:18+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/bitrate</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;বিটরেট সেই গতিকেই বোঝায় যে গতিতে বিটস একটি নেটওয়ার্ক লোকেশান থেকে  অন্য লোকেশান যাতায়াত করে। অন্যভাবে বলা যায়, একটি নির্দিষ্ট সময়ের মধ্যে  কি পরিমান ডাটা আদান-প্রদান হচ্ছে তা নির্দেশ করে বিটরেট। সাধারণত &quot;বিট পার  সেকেন্ড&quot; বা &quot;bps&quot;, &quot;কিলোবিট পার সেকেন্ড&quot; বা &quot;Kbps&quot;, এবং &quot;মেগাবিট পার  সেকেন্ড&quot; বা &quot;Mbps&quot;  এই এককগুলো দ্বারা বিটরেট নির্ধারিত হয়।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরুপঃ একটি DSL সংযোগ &quot;৭৬৮ Kbps&quot; স্পীডে ডাউনলোড করতে সক্ষম,  অন্যদিকে একটি &quot;Firewire 800&quot; সংযোগ &quot;৮০০ Mbps&quot; স্পীডে ডাউনলোড করতে সক্ষম।&lt;/p&gt;
+&lt;p&gt;বিটরেট আবার অডিও এবং ভিডিও ফাইলের মান নির্ধারণে ও ব্যবহৃত হয়। যেমনঃ  ১৯২ Kbps  এ কম্প্রেস করা একটি &quot;MP3&quot; অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জ  ১২৮ Kbps এর একটি &quot;MP3&quot; অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জের চাইতে  জোরালো ও পরিষ্কার হবে। তেমনি ১০০০ Kbps এর একটি ভিডিও ফাইলের চেয়ে ৩০০০  Kbps এর একটি ভিডিও ফাইল এর কোয়ালিটি অনেক ভাল হবে। কারণ এই ক্ষেত্রে প্রতি  bps এ বেশি বিট ব্যবহৃত হয়েছে।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bitrate.jpg&quot; border=&quot;0&quot; width=&quot;410&quot; height=&quot;184&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;বিটরেট সেই গতিকেই বোঝায় যে গতিতে বিটস একটি নেটওয়ার্ক লোকেশান থেকে  অন্য লোকেশান যাতায়াত করে। অন্যভাবে বলা যায়, একটি নির্দিষ্ট সময়ের মধ্যে  কি পরিমান ডাটা আদান-প্রদান হচ্ছে তা নির্দেশ করে বিটরেট। সাধারণত &quot;বিট পার  সেকেন্ড&quot; বা &quot;bps&quot;, &quot;কিলোবিট পার সেকেন্ড&quot; বা &quot;Kbps&quot;, এবং &quot;মেগাবিট পার  সেকেন্ড&quot; বা &quot;Mbps&quot;  এই এককগুলো দ্বারা বিটরেট নির্ধারিত হয়।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরুপঃ একটি DSL সংযোগ &quot;৭৬৮ Kbps&quot; স্পীডে ডাউনলোড করতে সক্ষম,  অন্যদিকে একটি &quot;Firewire 800&quot; সংযোগ &quot;৮০০ Mbps&quot; স্পীডে ডাউনলোড করতে সক্ষম।&lt;/p&gt;
+&lt;p&gt;বিটরেট আবার অডিও এবং ভিডিও ফাইলের মান নির্ধারণে ও ব্যবহৃত হয়। যেমনঃ  ১৯২ Kbps  এ কম্প্রেস করা একটি &quot;MP3&quot; অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জ  ১২৮ Kbps এর একটি &quot;MP3&quot; অডিও ফাইলের সাউন্ড ও ডাইনামিক রেঞ্জের চাইতে  জোরালো ও পরিষ্কার হবে। তেমনি ১০০০ Kbps এর একটি ভিডিও ফাইলের চেয়ে ৩০০০  Kbps এর একটি ভিডিও ফাইল এর কোয়ালিটি অনেক ভাল হবে। কারণ এই ক্ষেত্রে প্রতি  bps এ বেশি বিট ব্যবহৃত হয়েছে।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bitrate.jpg&quot; border=&quot;0&quot; width=&quot;410&quot; height=&quot;184&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Blob</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/blob"/>
+		<published>2011-08-25T20:46:24+00:00</published>
+		<updated>2011-08-25T20:46:24+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/blob</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Blob(ব্লব) এর পূর্ণ রূপ হল &quot;Binary Large Object&quot; . এটি ডেটাবেজে তথ্য জমা করার জন্য ব্যবহৃত হয়।&lt;/p&gt;
+&lt;p&gt;ব্লব একটি ডাটা টাইপ যা বাইনারী ডাটা জমা করে। এরূপ অনেক ডাটা টাইপ,  যেমনঃ Integer, floating point, character, string এসব ডাটা টাইপ ও  ডেটাবেজে তথ্য জমা করে। তবে ব্লব এদের চাইতে ভিন্ন। কারন এসব ডাটা টাইপ  ডেটাবেজে তথ্য রাখতে অক্ষর ও সংখ্যা ব্যবহার করতে পারে, কিন্তু ব্লব তা  পারেনা। ব্লব শুধু  ০ এবং ১ কেই ব্যবহার করতে পারে। তবে ব্লব ব্যবহার করে  ডেটাবেজে ছবি, অ্যালবাম, অডিও ফাইল, ভিডিও ক্লিপ্স রাখা যায়। সেক্ষেত্রে  ব্লব ডাটা টাইপ অনেক জায়গা নেয়। এমনকি কয়েক গিগাবাইট জায়গাও নিতে পারে। বড়  ডেটাবেজ ব্যবহার হলে সেক্ষেত্রে ব্লবকে বিগ ব্লব বলা হয়।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/blob.png&quot; border=&quot;0&quot; width=&quot;401&quot; height=&quot;218&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Blob(ব্লব) এর পূর্ণ রূপ হল &quot;Binary Large Object&quot; . এটি ডেটাবেজে তথ্য জমা করার জন্য ব্যবহৃত হয়।&lt;/p&gt;
+&lt;p&gt;ব্লব একটি ডাটা টাইপ যা বাইনারী ডাটা জমা করে। এরূপ অনেক ডাটা টাইপ,  যেমনঃ Integer, floating point, character, string এসব ডাটা টাইপ ও  ডেটাবেজে তথ্য জমা করে। তবে ব্লব এদের চাইতে ভিন্ন। কারন এসব ডাটা টাইপ  ডেটাবেজে তথ্য রাখতে অক্ষর ও সংখ্যা ব্যবহার করতে পারে, কিন্তু ব্লব তা  পারেনা। ব্লব শুধু  ০ এবং ১ কেই ব্যবহার করতে পারে। তবে ব্লব ব্যবহার করে  ডেটাবেজে ছবি, অ্যালবাম, অডিও ফাইল, ভিডিও ক্লিপ্স রাখা যায়। সেক্ষেত্রে  ব্লব ডাটা টাইপ অনেক জায়গা নেয়। এমনকি কয়েক গিগাবাইট জায়গাও নিতে পারে। বড়  ডেটাবেজ ব্যবহার হলে সেক্ষেত্রে ব্লবকে বিগ ব্লব বলা হয়।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/blob.png&quot; border=&quot;0&quot; width=&quot;401&quot; height=&quot;218&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>bps</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bps"/>
+		<published>2011-08-25T20:48:47+00:00</published>
+		<updated>2011-08-25T20:48:47+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/bps</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;bps এর পূর্ণ রূপ হল &quot;বিটস পার সেকেন্ড&quot; বা &quot;bits per second&quot;.  এখানে  ছোট হাতের &quot;b&quot; ব্যবহার করা হয়েছে। কারণ ছোট হাতের &quot;b&quot; দ্বারা বোঝায় bit  (বিট) আর বড় হাতের &quot;B&quot; দ্বারা বোঝায় byte(বাইট)। &quot;বিটস পার সেকেন্ড&quot; বা bps  হল একটি নেটওয়ার্কের মধ্য দিয়ে কত দ্রুত ডাটা চলাচল করে তা পরিমাপের একটি  অন্যতম মানদন্ড।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরূপঃ একটি ৫৬k মডেম প্রতি সেকেন্ডে ৫৬,৭০০ বিটস ডাটা ট্রান্সফার করতে পারে।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bps.jpg&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;bps এর পূর্ণ রূপ হল &quot;বিটস পার সেকেন্ড&quot; বা &quot;bits per second&quot;.  এখানে  ছোট হাতের &quot;b&quot; ব্যবহার করা হয়েছে। কারণ ছোট হাতের &quot;b&quot; দ্বারা বোঝায় bit  (বিট) আর বড় হাতের &quot;B&quot; দ্বারা বোঝায় byte(বাইট)। &quot;বিটস পার সেকেন্ড&quot; বা bps  হল একটি নেটওয়ার্কের মধ্য দিয়ে কত দ্রুত ডাটা চলাচল করে তা পরিমাপের একটি  অন্যতম মানদন্ড।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরূপঃ একটি ৫৬k মডেম প্রতি সেকেন্ডে ৫৬,৭০০ বিটস ডাটা ট্রান্সফার করতে পারে।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bps.jpg&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Byte</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/byte"/>
+		<published>2011-08-25T20:50:45+00:00</published>
+		<updated>2011-08-25T20:50:45+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/byte</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;বাইট কম্পিউটারের মেমোরিতে রাখা একটি ক্যারেক্টারকে নির্দেশ করে। ৮ বিটের সমন্বয়ে ১ বাইট গঠিত হয়।&lt;/p&gt;
+&lt;p&gt;বিট বিভিন্ন নেটওয়ার্কে ডাটা প্রেরণের গতিকে বোঝায়। কিন্তু বাইট  কম্পিউটারে রাখা ফাইলের সাইজ, হার্ড ড্রাইভ এর জাইয়গার পরিমাণ বা কম্পিউটার  মেমোরির জায়গা নির্দেশ করে। বড় সাইজকে এভাবে বর্ণনা করা হয়ঃ কিলোবাইট,  মেগাবাইট, গিগাবাইট, টেরাবাইট ইত্যাদি।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরূপঃ ১০২৪ বাইটে ১ কিলোবাইট ।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bytes_table.gif&quot; border=&quot;0&quot; width=&quot;393&quot; height=&quot;308&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;বাইট কম্পিউটারের মেমোরিতে রাখা একটি ক্যারেক্টারকে নির্দেশ করে। ৮ বিটের সমন্বয়ে ১ বাইট গঠিত হয়।&lt;/p&gt;
+&lt;p&gt;বিট বিভিন্ন নেটওয়ার্কে ডাটা প্রেরণের গতিকে বোঝায়। কিন্তু বাইট  কম্পিউটারে রাখা ফাইলের সাইজ, হার্ড ড্রাইভ এর জাইয়গার পরিমাণ বা কম্পিউটার  মেমোরির জায়গা নির্দেশ করে। বড় সাইজকে এভাবে বর্ণনা করা হয়ঃ কিলোবাইট,  মেগাবাইট, গিগাবাইট, টেরাবাইট ইত্যাদি।&lt;/p&gt;
+&lt;p&gt;উদাহরণস্বরূপঃ ১০২৪ বাইটে ১ কিলোবাইট ।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/bytes_table.gif&quot; border=&quot;0&quot; width=&quot;393&quot; height=&quot;308&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CLOB</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/clob"/>
+		<published>2011-08-25T20:52:51+00:00</published>
+		<updated>2011-08-25T20:52:51+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/clob</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;CLOB এর পূর্ণরূপ হল &quot;ক্যারেক্টার লার্জ অব্জেক্ট&quot; বা &quot;Character Large  Object.&quot;এটি একটি ডাটা টাইপ যা বিভিন্ন &quot;ডেটাবেজ ম্যানেজমেন্ট সিস্টেম&quot;  দ্বারা ব্যবহৃত হয়। যেমন &quot;Oracle&quot; ও &quot;DB2&quot;  ডেটাবেজে এই ডাটা টাইপ ব্যবহৃত  হয়। প্রায় ৪ জিবি পর্যন্ত বড় সাইজের ক্যারেক্টার ডাটা জমা রাখতে এই CLOB  কাজে লাগে।এটি অনেকটা BLOB এর মত, তবে বাড়তি হিসেবে এটি ক্যারেক্টার ডাটা  ডেটাবেজে জমা রাখতে পারে এবং বাইনারী তো পারেই।&lt;/p&gt;
+&lt;p&gt;মাঝে মাঝে ডেটাবেজে কিছু পরিবর্তন করতে হয়, যেমনঃ ক্যারেক্টার যোগ করা,  টেক্সট যোগ করা, টেক্সট পরিবর্তন করা ইত্যাদি। সাধারণ ডেটাবেজ ম্যানেজমেন্ট  সিস্টেমে ছোটখাট পরিবর্তন করা যায়। কিন্তু বড় টেক্সট যোগ করা বা বড় ধরণের  পরিবর্তনের জন্য CLOB ব্যবহার করতে হয়। আবার CLOB এর আরেকটি সুবিধা হল এটি  সরাসরি নির্ধারিত স্থানে ডেটাবেজের পরিবর্তন করতে পারে যা অন্যান্য ডেটাবেজ  ম্যানেজমেন্ট সিস্টেম পারেনা।&lt;/p&gt;
+&lt;p&gt;তবে এর কিছু অসুবিধা ও আছে। CLOB ফিল্ডে পরিবর্তন করা ডেটাবেজের অনেক  টেক্সট কমান্ড অন্যান্য ডেটাবেজ সিস্টেমে রান করা যায়না। সেক্ষেত্রে সাধারণ  ডেটাবেজ ম্যানেজমেন্ট ব্যবহার করতে হয়।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/clob1.jpg&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;CLOB এর পূর্ণরূপ হল &quot;ক্যারেক্টার লার্জ অব্জেক্ট&quot; বা &quot;Character Large  Object.&quot;এটি একটি ডাটা টাইপ যা বিভিন্ন &quot;ডেটাবেজ ম্যানেজমেন্ট সিস্টেম&quot;  দ্বারা ব্যবহৃত হয়। যেমন &quot;Oracle&quot; ও &quot;DB2&quot;  ডেটাবেজে এই ডাটা টাইপ ব্যবহৃত  হয়। প্রায় ৪ জিবি পর্যন্ত বড় সাইজের ক্যারেক্টার ডাটা জমা রাখতে এই CLOB  কাজে লাগে।এটি অনেকটা BLOB এর মত, তবে বাড়তি হিসেবে এটি ক্যারেক্টার ডাটা  ডেটাবেজে জমা রাখতে পারে এবং বাইনারী তো পারেই।&lt;/p&gt;
+&lt;p&gt;মাঝে মাঝে ডেটাবেজে কিছু পরিবর্তন করতে হয়, যেমনঃ ক্যারেক্টার যোগ করা,  টেক্সট যোগ করা, টেক্সট পরিবর্তন করা ইত্যাদি। সাধারণ ডেটাবেজ ম্যানেজমেন্ট  সিস্টেমে ছোটখাট পরিবর্তন করা যায়। কিন্তু বড় টেক্সট যোগ করা বা বড় ধরণের  পরিবর্তনের জন্য CLOB ব্যবহার করতে হয়। আবার CLOB এর আরেকটি সুবিধা হল এটি  সরাসরি নির্ধারিত স্থানে ডেটাবেজের পরিবর্তন করতে পারে যা অন্যান্য ডেটাবেজ  ম্যানেজমেন্ট সিস্টেম পারেনা।&lt;/p&gt;
+&lt;p&gt;তবে এর কিছু অসুবিধা ও আছে। CLOB ফিল্ডে পরিবর্তন করা ডেটাবেজের অনেক  টেক্সট কমান্ড অন্যান্য ডেটাবেজ সিস্টেমে রান করা যায়না। সেক্ষেত্রে সাধারণ  ডেটাবেজ ম্যানেজমেন্ট ব্যবহার করতে হয়।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/clob1.jpg&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Data</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/data"/>
+		<published>2011-08-25T20:56:42+00:00</published>
+		<updated>2011-08-25T20:56:42+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/data</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;ডাটা বলতে কম্পিউটারে জমাকৃত তথ্যকে বোঝায়। ডাটা বিভিন্ন ধরণের হতে  পারে। যেমনঃ টেক্সট ডকুমেন্ট, ছবি, অডিও ক্লিপস, ভিডিও ক্লিপস, সফটওয়্যার  প্রোগ্রাম বা অন্যান্য ফরম্যাটে ডাটা থাকতে পারে। কম্পিউটারের সিপিইউ  দ্বারা প্রক্রিয়াজাত হয়ে ডাটা ফাইল বা ফোল্ডার দ্বারা কম্পিউটার হার্ড  ড্রাইভে জমা থাকে।&lt;/p&gt;
+&lt;p&gt;অন্যভাবে ডাটা হল বাইনারী সংখ্যা ০ এবং ১ এর সমন্বয়। কারণ কম্পিউটার  মেমোরি বাইনারী সংখ্যাকেই পড়তে পারে। তাই মেমোরি সকল প্রকার ডাটাকে ০ এবং ১  এই সাংখ্যিক মানে রূপান্তরিত করে প্রক্রিয়া করে, সংকলন করে এবং সংরক্ষন  করে। একটি কম্পিউটার থেকে আরেকটি কম্পিউটারে ডাটা নেটওয়ার্ক অথবা  এক্সটার্নাল ডিভাইসের মাধ্যমে পাঠানো যায়। অনেকবার ব্যবহারের পর ও ডাটা  নষ্ট হয়ে যায়না।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/data.jpg&quot; border=&quot;0&quot; width=&quot;308&quot; height=&quot;463&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;ডাটা বলতে কম্পিউটারে জমাকৃত তথ্যকে বোঝায়। ডাটা বিভিন্ন ধরণের হতে  পারে। যেমনঃ টেক্সট ডকুমেন্ট, ছবি, অডিও ক্লিপস, ভিডিও ক্লিপস, সফটওয়্যার  প্রোগ্রাম বা অন্যান্য ফরম্যাটে ডাটা থাকতে পারে। কম্পিউটারের সিপিইউ  দ্বারা প্রক্রিয়াজাত হয়ে ডাটা ফাইল বা ফোল্ডার দ্বারা কম্পিউটার হার্ড  ড্রাইভে জমা থাকে।&lt;/p&gt;
+&lt;p&gt;অন্যভাবে ডাটা হল বাইনারী সংখ্যা ০ এবং ১ এর সমন্বয়। কারণ কম্পিউটার  মেমোরি বাইনারী সংখ্যাকেই পড়তে পারে। তাই মেমোরি সকল প্রকার ডাটাকে ০ এবং ১  এই সাংখ্যিক মানে রূপান্তরিত করে প্রক্রিয়া করে, সংকলন করে এবং সংরক্ষন  করে। একটি কম্পিউটার থেকে আরেকটি কম্পিউটারে ডাটা নেটওয়ার্ক অথবা  এক্সটার্নাল ডিভাইসের মাধ্যমে পাঠানো যায়। অনেকবার ব্যবহারের পর ও ডাটা  নষ্ট হয়ে যায়না।&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/bit/AM/data.jpg&quot; border=&quot;0&quot; width=&quot;308&quot; height=&quot;463&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Data Transfer Rate</title>
+		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/data-transfer-rate"/>
+		<published>2011-08-28T02:50:40+00:00</published>
+		<updated>2011-08-28T02:50:40+00:00</updated>
+		<id>http://servereditor.omnibloodbank.tk/bits/data-transfer-rate</id>
+		<author>
+			<name>Invincible সাজ্জাদ</name>
+			<email>likewarid@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;ডাটা ট্রান্সফার রেট সাধারণত এক লোকেশান থেকে অন্য লোকেশানে কত সময়ে ডাটা স্থানান্তর হয় তা নির্দেশ করে। উদাহরণস্বরূপঃ হার্ড ড্রাইভের সর্বোচ্চ ডাটা ট্রান্সফার রেট ৪৮০ Mbps(এম.বি.পি.এস)। আবার একজন ইউজারের ISP(আই.এস.পি)। এর সর্বোচ্চ ডাটা ট্রান্সফার রেট হতে পারে ১.৫ Mbps।&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;ডাটা ট্রান্সফার রেট &quot;bps&quot;  বা &quot;বিটস পার সেকেন্ড&quot; দ্বারা  পরিমাপ করা যায় । &quot;বাইটস পার সেকেন্ড&quot; এ ও ডাটা ট্রান্সফার রেট পরিমাপ করা যায়। তবে খেয়াল রাখতে হবে ৮ বিটে ১ বাইট। অর্থাৎ ৮০ Mb(মেগা বিট) ডাটা ১ সেকেন্ডে স্থানান্তর হওয়ার অর্থ ১ সেকেন্ডে ১০ MB(মেগা বাইট ) ডাটা স্থানান্তর হওয়া। কিন্তু বেশিরভাগ ইন্টারনেট সার্ভিস প্রদানকারী প্রতিষ্ঠান &quot;bps&quot; বা &quot;বিটস পার সেকেন্ড&quot; এ ডাটা ট্রান্সফার রেট হিসাব করে থাকে।&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;&lt;img src=&quot;images/bit/AM/data transfer.gif&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;ডাটা ট্রান্সফার রেট সাধারণত এক লোকেশান থেকে অন্য লোকেশানে কত সময়ে ডাটা স্থানান্তর হয় তা নির্দেশ করে। উদাহরণস্বরূপঃ হার্ড ড্রাইভের সর্বোচ্চ ডাটা ট্রান্সফার রেট ৪৮০ Mbps(এম.বি.পি.এস)। আবার একজন ইউজারের ISP(আই.এস.পি)। এর সর্বোচ্চ ডাটা ট্রান্সফার রেট হতে পারে ১.৫ Mbps।&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;ডাটা ট্রান্সফার রেট &quot;bps&quot;  বা &quot;বিটস পার সেকেন্ড&quot; দ্বারা  পরিমাপ করা যায় । &quot;বাইটস পার সেকেন্ড&quot; এ ও ডাটা ট্রান্সফার রেট পরিমাপ করা যায়। তবে খেয়াল রাখতে হবে ৮ বিটে ১ বাইট। অর্থাৎ ৮০ Mb(মেগা বিট) ডাটা ১ সেকেন্ডে স্থানান্তর হওয়ার অর্থ ১ সেকেন্ডে ১০ MB(মেগা বাইট ) ডাটা স্থানান্তর হওয়া। কিন্তু বেশিরভাগ ইন্টারনেট সার্ভিস প্রদানকারী প্রতিষ্ঠান &quot;bps&quot; বা &quot;বিটস পার সেকেন্ড&quot; এ ডাটা ট্রান্সফার রেট হিসাব করে থাকে।&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_exposed_show&quot;&gt;&lt;img src=&quot;images/bit/AM/data transfer.gif&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+	</entry>
+</feed>
