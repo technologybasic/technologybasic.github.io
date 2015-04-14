@@ -4,16 +4,16 @@
 	<title type="text">bits - বিট ও বাইটস - টেকনোলজি বেসিক</title>
 	<subtitle type="text">বিট ও বাইট সম্পর্কিত সকল তথ্য জানুন</subtitle>
 	<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk"/>
-	<id>http://servereditor.omnibloodbank.tk/</id>
+	<id>/</id>
 	<updated>2015-03-24T04:50:40+00:00</updated>
 	<generator uri="http://joomla.org" version="1.6">Joomla! 1.6 - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="http://servereditor.omnibloodbank.tk/bits?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/bits?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Bandwidth</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bandwidth"/>
+		<link rel="alternate" type="text/html" href="/bits/bandwidth"/>
 		<published>2011-08-25T20:11:06+00:00</published>
 		<updated>2011-08-25T20:11:06+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/bandwidth</id>
+		<id>/bits/bandwidth</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -25,10 +25,10 @@
 	</entry>
 	<entry>
 		<title>Baud</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/baud"/>
+		<link rel="alternate" type="text/html" href="/bits/baud"/>
 		<published>2011-08-25T20:33:56+00:00</published>
 		<updated>2011-08-25T20:33:56+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/baud</id>
+		<id>/bits/baud</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -42,10 +42,10 @@
 	</entry>
 	<entry>
 		<title>Bit</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bit-written"/>
+		<link rel="alternate" type="text/html" href="/bits/bit-written"/>
 		<published>2011-08-25T20:40:42+00:00</published>
 		<updated>2011-08-25T20:40:42+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/bit-written</id>
+		<id>/bits/bit-written</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -59,10 +59,10 @@
 	</entry>
 	<entry>
 		<title>Bitrate</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bitrate"/>
+		<link rel="alternate" type="text/html" href="/bits/bitrate"/>
 		<published>2011-08-25T20:44:18+00:00</published>
 		<updated>2011-08-25T20:44:18+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/bitrate</id>
+		<id>/bits/bitrate</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -78,10 +78,10 @@
 	</entry>
 	<entry>
 		<title>Blob</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/blob"/>
+		<link rel="alternate" type="text/html" href="/bits/blob"/>
 		<published>2011-08-25T20:46:24+00:00</published>
 		<updated>2011-08-25T20:46:24+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/blob</id>
+		<id>/bits/blob</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -95,10 +95,10 @@
 	</entry>
 	<entry>
 		<title>bps</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/bps"/>
+		<link rel="alternate" type="text/html" href="/bits/bps"/>
 		<published>2011-08-25T20:48:47+00:00</published>
 		<updated>2011-08-25T20:48:47+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/bps</id>
+		<id>/bits/bps</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -112,10 +112,10 @@
 	</entry>
 	<entry>
 		<title>Byte</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/byte"/>
+		<link rel="alternate" type="text/html" href="/bits/byte"/>
 		<published>2011-08-25T20:50:45+00:00</published>
 		<updated>2011-08-25T20:50:45+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/byte</id>
+		<id>/bits/byte</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -131,10 +131,10 @@
 	</entry>
 	<entry>
 		<title>CLOB</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/clob"/>
+		<link rel="alternate" type="text/html" href="/bits/clob"/>
 		<published>2011-08-25T20:52:51+00:00</published>
 		<updated>2011-08-25T20:52:51+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/clob</id>
+		<id>/bits/clob</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -150,10 +150,10 @@
 	</entry>
 	<entry>
 		<title>Data</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/data"/>
+		<link rel="alternate" type="text/html" href="/bits/data"/>
 		<published>2011-08-25T20:56:42+00:00</published>
 		<updated>2011-08-25T20:56:42+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/data</id>
+		<id>/bits/data</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -167,10 +167,10 @@
 	</entry>
 	<entry>
 		<title>Data Transfer Rate</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/bits/data-transfer-rate"/>
+		<link rel="alternate" type="text/html" href="/bits/data-transfer-rate"/>
 		<published>2011-08-28T02:50:40+00:00</published>
 		<updated>2011-08-28T02:50:40+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/bits/data-transfer-rate</id>
+		<id>/bits/data-transfer-rate</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>

@@ -4,16 +4,16 @@
 	<title type="text">fileformat - টেকনোলজি বেসিক</title>
 	<subtitle type="text">fileformat</subtitle>
 	<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk"/>
-	<id>http://servereditor.omnibloodbank.tk/</id>
+	<id>/</id>
 	<updated>2015-03-24T04:50:29+00:00</updated>
 	<generator uri="http://joomla.org" version="1.6">Joomla! 1.6 - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="http://servereditor.omnibloodbank.tk/fileformat?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="/fileformat?format=feed&amp;type=atom"/>
 	<entry>
 		<title>AIFF</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/aiff"/>
+		<link rel="alternate" type="text/html" href="/fileformat/aiff"/>
 		<published>2011-08-21T22:29:48+00:00</published>
 		<updated>2011-08-21T22:29:48+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/aiff</id>
+		<id>/fileformat/aiff</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -25,10 +25,10 @@
 	</entry>
 	<entry>
 		<title>Batchfile</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/batchfile"/>
+		<link rel="alternate" type="text/html" href="/fileformat/batchfile"/>
 		<published>2011-08-25T20:09:25+00:00</published>
 		<updated>2011-08-25T20:09:25+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/batchfile</id>
+		<id>/fileformat/batchfile</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -40,10 +40,10 @@
 	</entry>
 	<entry>
 		<title>Bitmap</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/bitmap"/>
+		<link rel="alternate" type="text/html" href="/fileformat/bitmap"/>
 		<published>2011-10-04T02:24:32+00:00</published>
 		<updated>2011-10-04T02:24:32+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/bitmap</id>
+		<id>/fileformat/bitmap</id>
 		<author>
 			<name>Invincible সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -55,10 +55,10 @@
 	</entry>
 	<entry>
 		<title>BMP</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/bmp"/>
+		<link rel="alternate" type="text/html" href="/fileformat/bmp"/>
 		<published>2011-10-24T19:03:46+00:00</published>
 		<updated>2011-10-24T19:03:46+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/bmp</id>
+		<id>/fileformat/bmp</id>
 		<author>
 			<name>সাজ্জাদ</name>
 			<email>likewarid@gmail.com</email>
@@ -70,10 +70,10 @@
 	</entry>
 	<entry>
 		<title>CDFS</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/cdfs"/>
+		<link rel="alternate" type="text/html" href="/fileformat/cdfs"/>
 		<published>2011-08-24T22:38:52+00:00</published>
 		<updated>2011-08-24T22:38:52+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/cdfs</id>
+		<id>/fileformat/cdfs</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -85,10 +85,10 @@
 	</entry>
 	<entry>
 		<title>DLL</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/dll"/>
+		<link rel="alternate" type="text/html" href="/fileformat/dll"/>
 		<published>2011-08-25T20:12:21+00:00</published>
 		<updated>2011-08-25T20:12:21+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/dll</id>
+		<id>/fileformat/dll</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -102,10 +102,10 @@
 	</entry>
 	<entry>
 		<title>GIF</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/gif"/>
+		<link rel="alternate" type="text/html" href="/fileformat/gif"/>
 		<published>2011-08-25T20:22:20+00:00</published>
 		<updated>2011-08-25T20:22:20+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/gif</id>
+		<id>/fileformat/gif</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -117,10 +117,10 @@
 	</entry>
 	<entry>
 		<title>JPEG</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/jpeg"/>
+		<link rel="alternate" type="text/html" href="/fileformat/jpeg"/>
 		<published>2011-08-25T20:24:12+00:00</published>
 		<updated>2011-08-25T20:24:12+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/jpeg</id>
+		<id>/fileformat/jpeg</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -136,10 +136,10 @@
 	</entry>
 	<entry>
 		<title>MP3</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/mp3"/>
+		<link rel="alternate" type="text/html" href="/fileformat/mp3"/>
 		<published>2011-08-28T02:40:48+00:00</published>
 		<updated>2011-08-28T02:40:48+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/mp3</id>
+		<id>/fileformat/mp3</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>
@@ -151,10 +151,10 @@
 	</entry>
 	<entry>
 		<title>MPEG</title>
-		<link rel="alternate" type="text/html" href="http://servereditor.omnibloodbank.tk/fileformat/mpeg"/>
+		<link rel="alternate" type="text/html" href="/fileformat/mpeg"/>
 		<published>2011-08-28T02:41:36+00:00</published>
 		<updated>2011-08-28T02:41:36+00:00</updated>
-		<id>http://servereditor.omnibloodbank.tk/fileformat/mpeg</id>
+		<id>/fileformat/mpeg</id>
 		<author>
 			<name>পাভেল ফাহমি</name>
 			<email>likewarid@gmail.com</email>

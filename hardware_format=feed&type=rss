@@ -4,114 +4,114 @@
 	<channel>
 		<title>hardware - টেকনোলজি বেসিক</title>
 		<description>hardware</description>
-		<link>http://servereditor.omnibloodbank.tk/hardware</link>
+		<link>/hardware</link>
 		<lastBuildDate>Tue, 24 Mar 2015 04:48:50 +0000</lastBuildDate>
 		<generator>Joomla! 1.6 - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="http://servereditor.omnibloodbank.tk/hardware?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/hardware?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<item>
 			<title>Access Point</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/access-point</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/access-point</guid>
+			<link>/hardware/access-point</link>
+			<guid isPermaLink="true">/hardware/access-point</guid>
 			<description><![CDATA[<p>অ্যাক্সেস পয়েন্ট হল এমন একটি ব্যাবস্থা যার মাধ্যমে কোন ওয়্যারলেস ডিভাইস কে নেটওয়ার্ক এ যুক্ত করা যায়। বেশীরভাগ ক্ষেত্রে অ্যাক্সেস পয়েন্টে বিল্ট-ইন রাউটার থাকে এবং সেগুলো নেটওয়ার্কে যুক্ত থাকে। নয়ত অ্যাক্সেস পয়েন্টকে মডেম অথবা সুইচের সাথে তার দিয়ে সংযোগ দেওয়া থাকে। অধিকাংশ বাসা-বাড়ি, অফিসে অ্যাক্সেস পয়েন্ট হিসেবে ওয়্যারলেস রাউটার থাকে, আর সেই রাউটার গুলো ডিএসএল বা তারযুক্ত মডেমের সাথে লাগানো থাকে। বড়সর এলাকায় একসাথে অনেকগুলো অ্যাক্সেস পয়েন্ট ব্যবহার করা হয় যেন অনেক দূর থেকেও সহজেই নেটওয়ার্কে যুক্ত হওয়া সম্ভব হয়। কিছু অ্যাক্সেস পয়েন্ট আছে যেগুলো জনসাধারণের জন্য উন্মুক্ত। এগুলো বিভিন্ন দোকান, ক্যাফে, রেস্ট্যুরেন্টে পাওয়া যায়। আবার সীমাবদ্ধ নেটওয়ার্ক গডে তুলতেও অ্যাক্সেস পয়েন্ট বানানো হয়। যেমন একটি অফিসে শুধু কর্মীদের জন্য নিরাপদ ও বিশেষ অ্যাক্সেস পয়েন্ট বানানো হয়।</p>
 <p>অ্যাক্সেস পয়েন্ট হিসেবে সাধারণতঃ ওয়্যারলেস মাধ্যম ব্যবহার করা হয়। তবে ওয়াই-ফাই, ব্লু-টুথ ইত্যাদি এর মাধ্যমেও সংযোগ দেওয়া হয়। বেশীরভাগ অ্যাক্সেস পয়েন্টের মাধ্যমে গ্রাহককে ইন্টারনেট সুবিধা দেওয়া হয়ে থাকে।</p>
 <p>ওয়াই-ফাই ডিভাইস এর ক্ষেত্রে অ্যাক্সেস পয়েন্ট কে WAP বা Wireless Access Point বলা হয়।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/access Point.jpg" border="0" width="416" height="330" /></p>]]></description>
+<p><img src="/images/hardware/AE/access Point.jpg" border="0" width="416" height="330" /></p>]]></description>
 			<author>likewarid@gmail.com (Super User)</author>
 			<pubDate>Wed, 29 Jun 2011 22:20:23 +0000</pubDate>
 		</item>
 		<item>
 			<title>Active-Matrix  </title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/active-matrix</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/active-matrix</guid>
+			<link>/hardware/active-matrix</link>
+			<guid isPermaLink="true">/hardware/active-matrix</guid>
 			<description><![CDATA[<p>“<strong>অ্যাক্টিভ ম্যাট্রিক্স</strong>” হল এলসিডি স্ক্রীন বা সমতল  মনিটরে ছবির মান উন্নত করার একটি বিশেষ পদ্ধতি। TFT ধরণের এলসিডি ডিসপ্লেতে  এই ম্যাট্রিক্স ব্যবহার করা হয়। আমরা জানি যে স্ক্রীনে দেখানো ছবি  অনেকগুলা পিক্সেলের সমষ্টি। এই পিক্সেলগুলোর উজ্জলতা কম বেশি করে অসংখ্য  রঙের ছবি দেখানো হয়। অ্যাক্টিভ ম্যাট্রিক্স পদ্ধতিতে সরাসরি পিক্সেলের  নিয়ন্ত্রক ক্যাপাসিটরের চার্জ কম বেশি করে দ্রুগতিতে ছবি বা মোশন দেখানো  সম্ভব হয়। অপরপক্ষে প্যাসিভ ম্যাট্রিক্স পদ্ধতিতে আলাদা আলাদা তারের  সাহায্যে প্রতিটা পিক্সেলের রঙ বদলাতে হয় বলে সেটা খুব ধীরগতির হয়।</p>
 <p>অ্যাক্টিভ ম্যাট্রিক্স পদ্ধতিতে খুব দ্রুত সময়ে প্রতিটা পিক্সেল  নিয়ন্ত্রণ করা যায় বলে স্ক্রীনে অনেক ভালো উজ্জলতা আর রঙের ছবি দেখা যায়।  সাম্প্রতিক কালের সকল কম্পিউটার মনিটর, ল্যাপটপ স্ক্রীন আর এলসিডি/এলইডি  মনিটরে অ্যাক্টিভ ম্যাট্রিক্স ব্যবহার করা হয়। উল্লেখ্য অ্যাক্টিভ  ম্যাট্রিক্স যুক্ত এলসিডি কে AMLCD এবং ওএলইডি কে AMOLED বলা হয়।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/active matrix screen.jpg" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/active matrix screen.jpg" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 20:13:10 +0000</pubDate>
 		</item>
 		<item>
 			<title>ADC</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/adc</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/adc</guid>
+			<link>/hardware/adc</link>
+			<guid isPermaLink="true">/hardware/adc</guid>
 			<description><![CDATA[<p><strong> </strong>এডিসি হল “<strong>অ্যানালগ টু ডিজিটাল কনভার্টার</strong>”  (Analog to Digital Converter)। কম্পিউটারে যেসব অ্যানালগ ডিভাইস থাকে  তাদের সিগনাল কে ডিজিটালে পরিণত করাই এডিসির কাজ। কেননা কম্পিউটার কাজ করে  ডিজিটাল পদ্ধতিতে। যেকোন সিগনালকে বাইনারি পদ্ধতিতে ডিজিটালাইজ করা প্রবেশ  করাতে হয়। সেই কারণে এডিসি এর প্রয়োজন।</p>
 <p>যেমন ম্যাগনেটিক টেপে রেকর্ড করা ভিডিও কম্পিউটারে প্রেরণ করতে এডিসি এর  দরকার কারণ কম্পিউটার তো আর ম্যাগনেট টেপ থেকে ডাটা উদ্ধার করতে পারবেনা।  তাই ম্যাগনেট টেপ পড়ার জন্য যে বক্স ব্যবহার করার হয় সেটা এডিসি। আবার একটা  মাইক্রোফোন অ্যানালগ পদ্ধতিতে ইনপুট নেয়। সেটা কম্পিউটারের বোধগম্য করতে  এডিসি এর প্রয়োজন। এই কারণে সাউন্ড কার্ডে এডিসি থাকে যা ইনপুটকে ডিজিটাল  করে কম্পিউটারে পাঠায়।</p>
 <p>অনেক ক্ষেত্রেই কম্পিউটার আউটপুট হিসেবে অ্যানালগ সিগনাল উৎপন্ন করতে  পারে। যেমন শব্দ উৎপন্ন করতে অ্যানালগ সিগনাল দরকার। সেক্ষেত্রে ডিএসি বা  ডিজিটাল টু অ্যানালগ কনভার্টার দরকার হয়।</p>
 <p>এডিসি মানে অ্যাপেল এর তৈরী অ্যাপেল ডিসপ্লে কানেক্টর ও বোঝানো হয়। এটা  একটি বিশেষ ধরণের কেবল যাতে ডিভিআই, ইউএসবি আর এসি পাওয়ার সম্বিলিত ভাবে  যুক্ত থাকত। ২০০৪ সালের পর থেকে এটার উৎপাদন বন্ধ হয়ে গেছে।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/adc.png" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/adc.png" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 20:15:28 +0000</pubDate>
 		</item>
 		<item>
 			<title>ADF </title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/adf</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/adf</guid>
+			<link>/hardware/adf</link>
+			<guid isPermaLink="true">/hardware/adf</guid>
 			<description><![CDATA[<p>এডিএফ হল “<strong>অটোমেটিক ডকুমেন্ট ফিডার</strong>” (Automatic  Document Feeder)। এটা হল ফটোকপি মেশিন বা প্রিন্টারে বা স্ক্যানারে যুক্ত  একটা ছোট্ট ব্যাবস্থা যার মাধ্যমে বাইরের কারো সাহায্য ছাড়াই মেশিনের মাঝে  প্রয়োজনমত কাগজ প্রবেশ করানো সম্ভব হয়। এর মাধ্যমে অল্প সময়ে অনেক কাগজ  কপি, প্রিন্ট বা স্ক্যান করানো যায়।</p>
 <p>এডিএফ হল ফ্ল্যাটবেড পদ্ধতির উল্টা যেখানো কাউকে নিজে হাতে সমতল প্লেটে  কাগজ বসিয়ে দিতে হত। অনেক মেশিনে এডিএফ ও ফ্ল্যাটবেড দুইটাই থাকে।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/adf.jpg" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/adf.jpg" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 20:31:48 +0000</pubDate>
 		</item>
 		<item>
 			<title>ADSL</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/adsl</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/adsl</guid>
+			<link>/hardware/adsl</link>
+			<guid isPermaLink="true">/hardware/adsl</guid>
 			<description><![CDATA[<p>এডিএসএল হল “<strong>অ্যাসিমেট্রিক ডিজিটাল সাবস্ক্রাইবার লাইন</strong>”।  এটা হল সাধারণ টেলিফোন লাইনের মধ্য দিয়ে দ্রুতগতিতে তথ্য প্রেরণের পদ্ধতি।  এটাকে অ্যাসিমেট্রিক বলার কারণ হল এতে ডাউনলোড আর আপলোড এর গতি সমান নয়।  এডিএসএল কেবলে ডাউনলোড এর গতি ১.৫ মেগাবিট/সেকেন্ড আর আপলোড এর গতি ২৫৬  কিলোবিট/সেকেন্ড। যেসব ব্যবহারকারী তথ্য আপলোডের চেয়ে ডাউনলোড বেশী করেন  তাদের জন্য এডিএসএল ভালো একটি উপায় হতে পারে। তবে বিভিন্ন সার্ভার বা যারা  স্ট্রীম করেন তাদের জন্য এডিএসএল প্রতিবন্ধক।</p>
 <p>অনুরুপ: <strong>DSL: </strong><strong>“ডিজিটাল সাবস্ক্রাইবার লাইন</strong>” সাধারণ টেলিফোন তারের মধ্য দিয়ে উচ্চগতিতে তথ্য প্রেরণ করতে পারে।</p>
 <p><strong>SDSL</strong>: এটা হল<strong> </strong>“<strong>সিমেট্রিক ডিজিটাল সাবস্ক্রাইবার লাইন</strong>” যা দিয়ে উভয় দিকেই ৬৪০ কিলোবিট হারে তথ্য আদান প্রদান করা সম্ভব।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/adsl.gif" border="0" width="535" height="383" /></p>]]></description>
+<p><img src="/images/hardware/AE/adsl.gif" border="0" width="535" height="383" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 20:49:52 +0000</pubDate>
 		</item>
 		<item>
 			<title>AGP </title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/agp</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/agp</guid>
+			<link>/hardware/agp</link>
+			<guid isPermaLink="true">/hardware/agp</guid>
 			<description><![CDATA[<p>এজিপি হল “<strong>অ্যাক্সিলারেটেড গ্রাফিক্স পোর্ট</strong>”। ১৯৯৬  সালে ইনটেল তাদের মাদারবোর্ডে দ্রুতগতির গ্রাফিক্স কার্ড যুক্ত করার জন্য  এই পোর্টের উদ্ভাবন করে যা তৎকালীন পিসিআই পোর্টের চেয়ে দ্রুতগতিসম্পন্ন  ছিল। এটা হল পৃথক একটা বাস যাতে গ্রাফিক্স কার্ড লাগানো হত। সাধারণ পিসিআই  পোর্টের সাথে এর পার্থক্য হল – পিসিআই পোর্টে যেকোন ডিভাইস লাগানো যেত,  কিন্তু এজিপিতে শুধুমাত্র গ্রাফিক্স কার্ড লাগানো হত।</p>
 <p>এজিপি স্লট মাদারবোর্ডের সাথে পিসিআই স্লটের মত বিল্ট-ইন অবস্থায় থাকত।  এর ফর্ম ফ্যাক্টর পিসিআই এর মতই ছিল। তিন ধরণের এজিপি ছিল যাদের এজিপি ১.০,  এজিপি ২.০ ও এজিপি ৩.০ এভাবে বলা হুত।</p>
 <p>এজিপি কার্ড শুধুমাত্র ডেস্কটপ কম্পিউটারে ব্যবহার করা হত। ২০০৪ সালে  খুব দ্রুতগতির পিসিআই-এক্সপ্রেস বা PCIe আসার পর থেকে এর ব্যবহার কমতে  থাকে। এর পরেও পিসিআই-ই আর এজিপি সহ মাদারবোর্ড পাওয়া যাত। ২০০৬ সালের পর  থেকে এজিপি স্লটের ব্যবহার বন্ধ হয় গেছে।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/agp.jpg" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/agp.jpg" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 21:03:54 +0000</pubDate>
 		</item>
 		<item>
 			<title>ALU</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/alu</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/alu</guid>
+			<link>/hardware/alu</link>
+			<guid isPermaLink="true">/hardware/alu</guid>
 			<description><![CDATA[<p><strong></strong>এএলইউ হল “<strong>অ্যারিথমেটিক লজিক ইউনিট</strong>”।  সিপিইউ বা জিপিইউ এর মাঝে যে ইলেক্ট্রনিক সার্কিট গাণিতিক নির্দেশ সম্পাদন  করে তাকে বলা হয় এএলইউ। এটা বুলিয়ান পদ্ধতিতে প্রদত্ত উপাত্তকে লজিক গেইট  ব্যবহার করে তুলনামূলক ফলাফল নির্ণয় করতে পারে।</p>
 <p>এএলইউ শুধু মাত্র যোগ আর বিয়োগ করতে পারে। এটা ইনটেজার টাইপ তথ্য নিয়ে  কাজ করে। অর্থাৎ দুইটা সংখ্যা যোগ করলে তাদের ফলাফলও ইনটেজার ধরণের হয়। তবে  “ফ্লোটিং পয়েন্ট ইউনিট” এর সাহায্যে নন-ইনটেজার ধরণের হিসাব করানো সম্ভব  হয়।</p>
 <p>এএলইউ হল প্রসেসরের মূল চালিকাশক্তি। দ্রুত হিসাবের কাজ করার জন্য  প্রসেসরে একাধিক এএলইউ থাকতে পারে। এএলইউ এর ইনটেজার নিয়ে কাজ করার শক্তিই  প্রসেসরের গতির মূল নিয়ামক।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/alu-symbol.png" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/alu-symbol.png" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 21:04:50 +0000</pubDate>
 		</item>
 		<item>
 			<title>ATA</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/ata</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/ata</guid>
+			<link>/hardware/ata</link>
+			<guid isPermaLink="true">/hardware/ata</guid>
 			<description><![CDATA[<p><strong></strong>এটিএ হল “<strong>অ্যাডভান্সড টেকনোলজি অ্যাটাচমেন্ট</strong>”।  এটা হল এক ধরণের হার্ডড্রাইভ যেটা কোনো কন্ট্রোলার ছাড়াই নিজেই  মাদারবোর্ডের সাথে যুক্ত হয়ে কাজ করতে পারে। মাদারবোর্ড এ অবশ্যই এটিএ  ড্রাইভ কাজ করার ব্যাবস্থা থাকে। বিভিন্ন গতির এটিএ কানেকশান রয়েছে। যেমন  এটিএ-১, এটিএ-২ (ফাস্ট এটিএ নামেও পরিচিত), এটিএ-৩, আল্ট্রা এটিএ (৩৩  মেগাবিট/সেকেন্ড তথ্য আদান প্রদান গতিসম্পন্ন), এটিএ/৬৬ (৬৬  মেগাবিট/সেকেন্ড গতিসম্পন্ন) এবং এটিএ/১০০ যা ১০০ মেগাবিট/সেকেন্ডে তথ্য  আদান প্রদানে সক্ষম।</p>
 <p>এটিএ কথাটির সাথে আইডিই নামটা সম্পর্কিত। আইডিই হল “ইনটিগ্রেটেড ড্রাইভ  ইলেক্ট্রনিকস” যেটা কন্ট্রোলার ছাড়া মাদারবোর্ডে ড্রাইভ যুক্ত করার  টেকনোলজিকে বোঝায়। এই কারণে এটিএ ড্রাইভে “এটিএ/আইডিই” কথাটি লেখা থাকে।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/ata.jpg" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/ata.jpg" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 21:05:57 +0000</pubDate>
 		</item>
 		<item>
 			<title>Backside Bus</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/backside-bus</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/backside-bus</guid>
+			<link>/hardware/backside-bus</link>
+			<guid isPermaLink="true">/hardware/backside-bus</guid>
 			<description><![CDATA[<p><strong>বাস </strong>মানে হল কম্পিউটারের বিভিন্ন  পেরিফেরালের মধ্যে যোগাযোগের রাস্তা বা মাধ্যম। সিপিইউর সাথে "<strong>ফ্রন্টসাইড বাস</strong>'  আর "<strong>ব্যাকসাইড বাস</strong>'  নামে দুই ধরণের বাস যুক্ত থাকে। ব্যাকসাইড বাস হল সেই বাস  যা প্রসেসরের  সেকেন্ডারি ক্যাশ (বা লেভেল ২ ক্যাশ) মেমরিতে তথ্য আদান  প্রদান করতে  ব্যবহার করা হয়। সিপিইউ সম্প্রতি যেসব তথ্য নিয়ে কাজ করে,  ক্যাশ মেমরি  সেগুলো লিপিবদ্ধ করে রাখে এবং চাওয়া মাত্র সেগুলো দ্রুততার  সাথে সিপিইউ-কে  প্রদান করে কাজ দ্রুততর করে।</p>
 <p>যেহেতু ক্যাশ মেমরি থেকে সিপিইউ-তে খুব দ্রুত তথ্য আদান প্রদান করা হয়,   ব্যাকসাইড বাস প্রায় প্রসেসরের ক্লক স্পীডের সমান হয়ে থাকে। অপরদিকে   ফ্রন্টসাইড বাস যা প্রাইমারি মেমরি বা র‍্যাম থেকে তথ্য সিপিইউ-তে আদান   প্রদান করে। উল্লেখ্য যে  ফ্রন্টসাইড বাস ও ব্যাকসাইড বাসের মাঝে কোন  আন্তঃসম্পর্ক নেই।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/backsidebus.gif" border="0" /></p>]]></description>
+<p><img src="/images/hardware/AE/backsidebus.gif" border="0" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 21:06:59 +0000</pubDate>
 		</item>
 		<item>
 			<title>Base Station</title>
-			<link>http://servereditor.omnibloodbank.tk/hardware/base-station</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/hardware/base-station</guid>
+			<link>/hardware/base-station</link>
+			<guid isPermaLink="true">/hardware/base-station</guid>
 			<description><![CDATA[<p>আগে <strong>বেজ স্টেশন </strong>বলতে বোঝান হত রাস্তার  পাশে বা  বিভিন্ন জায়গায় থাকা টাওয়ার গুলোকে যার মাধ্যমে সেল ফোনগুলো নিজ  নিজ  এলাকার মাঝে তথ্য আদান প্রদান করত।</p>
 <p>কম্পিউটারের পরিভাষায় বেজ স্টেশন বলতে বোঝায় একটি ওয়ারলেস অ্যাক্সেস   পয়েন্ট যা ওয়াইফাই বা ওয়াইম্যাক্স কার্ড যুক্ত কম্পিউটারকে রাউটারের   মাধ্যমে নেটওয়ার্ক এ যুক্ত করে। সাধারণত ওয়াইফাই সংযোগ ৮০২.১১বি এবং    ৮০২.১১জি মেনে চলে। তবে বেজ স্টেশন যেই কোম্পানিরই বানানো হোকনা কেন তা   স্ট্যান্ডার্ড মেনে চলা সকল ওয়াইফাই বা ওয়াইম্যাক্স ডিভাইস এর সাথে যুক্ত   হয়ে কাজ করতে পারে।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/hardware/AE/base.gif" border="0" width="516" height="360" /></p>]]></description>
+<p><img src="/images/hardware/AE/base.gif" border="0" width="516" height="360" /></p>]]></description>
 			<author>minhazul.haq@gmail.com (মিনহাজুল হক শাওন)</author>
 			<pubDate>Thu, 30 Jun 2011 21:08:29 +0000</pubDate>
 		</item>

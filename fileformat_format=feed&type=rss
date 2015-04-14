@@ -4,101 +4,101 @@
 	<channel>
 		<title>fileformat - টেকনোলজি বেসিক</title>
 		<description>fileformat</description>
-		<link>http://servereditor.omnibloodbank.tk/fileformat</link>
+		<link>/fileformat</link>
 		<lastBuildDate>Tue, 24 Mar 2015 04:50:29 +0000</lastBuildDate>
 		<generator>Joomla! 1.6 - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="http://servereditor.omnibloodbank.tk/fileformat?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/fileformat?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<item>
 			<title>AIFF</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/aiff</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/aiff</guid>
+			<link>/fileformat/aiff</link>
+			<guid isPermaLink="true">/fileformat/aiff</guid>
 			<description><![CDATA[<p>AIFF  এর পুর্ণরূপ হচ্ছে “অডিও ইন্টারচেঞ্জ ফাইল ফরমেট”(Audio Interchange  File Format)। .AIFF হচ্ছে একটি ফাইল ফরমেট যা হাই কোয়ালিটি স্যাম্পল্ড  ডাটা স্টোর করার জন্য ব্যবহৃত হয়।এটি সিডি কোয়ালিটি অডিও ডাটা ধারণ করতে  পারে এবং এই ডাটাকে কোন সিডিতে বার্ন করতে পারে।.AIFF সাধারনত কম্প্রেসড  ডাটা সাপোর্ট করেনা,তাই এই ধরনের ফাইলের আকার একটূ বড় হয়।.AIFF <span class="text_exposed_hide">...</span><span class="text_exposed_show"> ফাইলের  এক্সটেণশন সাধারনত .aif অথবা .aiff। AIFF আকার ও কোয়ালিটির দিক দিয়ে  উইন্ডোজ এর ওয়েব ফাইলের(wave file)মত।১৯৮৮ সালে অ্যাপল কম্পিউটার AIFF   তৈরী করে।যদিও এটি অ্যাপলের তৈরী তারপরও ম্যাক এবং পিসি এটি পড়তে সক্ষম।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/aiff.png" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/fileformat/AM/aiff.png" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Sun, 21 Aug 2011 22:29:48 +0000</pubDate>
 		</item>
 		<item>
 			<title>Batchfile</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/batchfile</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/batchfile</guid>
+			<link>/fileformat/batchfile</link>
+			<guid isPermaLink="true">/fileformat/batchfile</guid>
 			<description><![CDATA[<p>ব্যাচফাইল( Batchfile) হচ্ছে এমন একটি স্ক্রিপ্ট  যা একসাথে অনেক গুলো  কমান্ড বহন করে। আর এই কমান্ডগুলো সব সময় একসাথে এক্সিকিউট হয়।যেহেতু  ব্যাচফাইল একসাথে অনেকগুলো কমান্ডকে একটি ব্যাচ বা ছোট দলের অন্তর্ভুক্ত  করে তাই একে ব্যাচফাইল বলা হয়। ব্যাচফাইলের সুবিধা হচ্ছে আপনি প্রত্যেকটি  কমান্ড আলাদা আলাদা ভাবে না লিখে শুধুমাত্র ব্যাচফাইলের নাম লিখে সবগুলো  কমান্ড একসাথে এক্সিকিউট করতে পারেন। ব্যাচফাইল সাধারনত COMMAND.COM  প্রোগ্রাম দ্বারা রান করা হয়। আর এই COMMAND.COM হচ্ছে ডস এবং উইন্ডোজ এর  অংশ। তাই ব্যাচফাইল শুধুমাত্র উইন্ডোজ অপারেটিং সিস্টেমে রান করা  যায়।অন্যান্য অপারেটিং সিস্টেম তাদের নিজস্ব স্ক্রিপ্টিং টুলস ব্যবহার  করে।যেমন মাকিন্টোশ এর অ্যাপলস্ক্রিপ্ট(AppleScript),ইউনিক্সের শেল(shell)  ইত্যাদি। যেহেতু ব্যাচফাইল এক্সিকিউট করা যায় এমন কতগুলো কমান্ড বহন করে তাই  আপনার হার্ডডিস্কে থাকা কোন অজানা ব্যাচফাইল অথবা ইমেইল থেকে পাওয়া কোন  ব্যাচফাইল ওপেন করা উচিত নয়। ব্যাচফাইল এর এক্সটেনশন হচ্ছে .bat। সবচাইতে  কমন ডস ব্যাচফাইল হছে AUTOEXEC.BAT। <strong> </strong></p>
-<p><strong><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/batch-file-icon.png" border="0" /><br /></strong></p>]]></description>
+<p><strong><img src="/images/fileformat/AM/batch-file-icon.png" border="0" /><br /></strong></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 25 Aug 2011 20:09:25 +0000</pubDate>
 		</item>
 		<item>
 			<title>Bitmap</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/bitmap</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/bitmap</guid>
+			<link>/fileformat/bitmap</link>
+			<guid isPermaLink="true">/fileformat/bitmap</guid>
 			<description><![CDATA[<p>বিটম্যাপ হল অনেকগুলো  ডট বা বিটের সমন্বয়ে তৈরি করা একটি ম্যাপ যা দেখতে  একটি ছবি বা পিকচারের মত  লাগে। বেশিরভাগ ছবিই বিটম্যাপ ফরম্যাট বা  অনেকগুলো ডটের সমন্বয়ে গড়ে উঠে।  সাধারণ বিটম্যাপ ফাইল টাইপগুলো হল  BMP(বি.এম.পি), JPEG(জে.পি.ই.জি),  GIF(জি.আই.এফ), PICT(পি.আই.সি.টি),  PCX(পি.সি.এক্স), এবং  TIFF(টি.আই.এফ.এফ)। অনেকগুলো ডটের সমন্বয়ে গড়ে উঠার  কারণে যখন বিটম্যাপ  ইমেজকে জুম বা বড় করে দেখা হয় তখন এইসব ডটকে এক একটি  ব্লক মনে হয়।  ইলাস্ট্রেটর বা কোরেল ড্র সফটওয়্যার ব্যবহার করে ছবির ভেক্টর  গ্রাফিক্স  উন্নয়নের মাধ্যমে এই ব্লকি ভাব দূর করে দেওয়া যায়।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/bitmap.png" border="0" /></p>]]></description>
+<p><img src="/images/fileformat/AM/bitmap.png" border="0" /></p>]]></description>
 			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
 			<pubDate>Tue, 04 Oct 2011 02:24:32 +0000</pubDate>
 		</item>
 		<item>
 			<title>BMP</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/bmp</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/bmp</guid>
+			<link>/fileformat/bmp</link>
+			<guid isPermaLink="true">/fileformat/bmp</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">বি.এম.পি(BMP)  হল বিটম্যাপ এর সংক্ষিপ্ত  রূপ। বি.এম.পি ফরম্যাট ইমেজ ফাইল সংরক্ষণের একটি  সাধারণ রাস্টার  গ্রাফিক্স ফরমেট। প্রথমে এটি শুধুমাত্র উইন্ডোজেই চলতো,  কিন্ত এখন এটি  ম্যাক(MAC) এর ও বহুল প্রচলিত </span><span class="text_exposed_show">ফরমেট।</span><br /><span class="text_exposed_show"> <br /> বি.এম.পি  ফরম্যাট একটি ইমেজ এর প্রতিটি  পিক্সেলের জন্য কোন রকম সংকোচন  ছাড়াই কালার  ডাটা জমা করে থাকে। ফলে ১০X১০ পিক্সেলের একটি ইমেজের জন্য ১০০  পিক্সেল  কালার ডাটায় জমা হয়। এই পদ্ধতিতে ইমেজ গ্রাফিক্সের মান অনেক ভাল  হলে ও তা  প্রচুর জায়গা বা মেমোরি নিয়ে থাকে। ফলে .BMP ফরম্যাটের ফাইলটি  অনেক বড় হয়।  JPEG(জে.পি.ই.জি) ও GIF(জি.আই.এফ) ও বিটম্যাপ ফরম্যাট হলেও  এরা ইমেজে ডাটা  সংরক্ষণের জন্য ইমেজ কম্প্রেশন এলগরিদম ব্যবহার করে থাকে।<br /> ফলে এই  ফরম্যাটের ফাইল সাইজ তুলনামূলক ছোট হয়। এই কারণে  JPEG(জে.পি.ই.জি)  ও  GIF(জি.আই.এফ) </span><span class="text_exposed_show">ফরমেট</span><span class="text_exposed_show"> ওয়েবে ব্যবহৃত হয়। আর প্রিন্টযোগ্য ইমেজের  ক্ষেত্রে  BMP(বি.এম.পি) ফরম্যাট ব্যবহৃত হয়।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/bmp_file.png" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/fileformat/AM/bmp_file.png" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (সাজ্জাদ)</author>
 			<pubDate>Mon, 24 Oct 2011 19:03:46 +0000</pubDate>
 		</item>
 		<item>
 			<title>CDFS</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/cdfs</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/cdfs</guid>
+			<link>/fileformat/cdfs</link>
+			<guid isPermaLink="true">/fileformat/cdfs</guid>
 			<description><![CDATA[<p class="uiStreamMessage"><span class="messageBody">এর  পুর্নরূপ হচ্ছে “কমপেক্ট ডিস্ক ফাইল সিস্টেম”। CDFS হচ্ছে একটি ফাইল  সিস্টেম,যা সিডিতে ডাটা  ষ্টোর করতে সাহায্য করে। এটি ইন্টারন্যাশনাল  অরগানাইজেশন ফর স্ট্যান্ডার্ডাইজেশন(iso) প্রকাশিত একটি স্ট্যান্ডার্ড বা  আদর্শ যা iso ৯৬৬০ নামেও পরিচিত। CDFS   সিডি এর সম্পুর্ণ ডাটা স্ট্রাকচার  যেমন ডিস্ক স্টোরেজ এরিয়া,হেডার সাইজ ইত্যাদি সুনির্দিষ্ট ভাবে উল্লেখ করে।  CDFS আদর্শ অনুযায়ী বার্ন করা সিডি যেকোন অপারেটিং সিস্টেম রিড করতে  পারে। যেমন আপনি যদি ম্যাকিন্টোশ অপারেটিং সিস্টেমে CDFS<br />আদর্শ অনুযায়ী  কোন সিডি বার্ন করেন তবে  অন্য যে কোন অপারেটিং সিস্টেম যেমন  উইন্ডোজ,লিনাক্স বেইজড  তা রিড করতে পারবে।  CDFS ব্যবহার করে ডিস্ক ইমেজ(  Disc images) সেভ করা যায় যা iso ৯৬৬০ ডিস্ক বার্ন করতে ব্যবহার করা হয়।</span></p>
-<p class="uiStreamMessage"><span class="messageBody"><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/cdfs.png" border="0" /><br /></span></p>]]></description>
+<p class="uiStreamMessage"><span class="messageBody"><img src="/images/fileformat/AM/cdfs.png" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Wed, 24 Aug 2011 22:38:52 +0000</pubDate>
 		</item>
 		<item>
 			<title>DLL</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/dll</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/dll</guid>
+			<link>/fileformat/dll</link>
+			<guid isPermaLink="true">/fileformat/dll</guid>
 			<description><![CDATA[<p>DLL এর পুর্ণরূপ হচ্ছে ডায়নামিক লিঙ্ক লাইব্রেরি(<strong><em>D</em></strong><em>ynamic </em><strong><em>L</em></strong><em>ink </em><strong><em>L</em></strong><em>ibrary)</em><em>।</em> DLL  হচ্ছে একটি লাইব্রেরি যা উইন্ডোজ অ্যাপ্লিকেশানে ব্যবহার করার জন্য  প্রয়োজনীয় ফাংশন অথবা ডাটা বহন করে।প্রোগ্রাম  সাধারনত স্টাটিক বা ডায়নামিক  লিঙ্ক তৈরী করে DLL ফাইলে প্রবেশ করে।স্টাটিক লিঙ্ক  প্রোগ্রাম   এক্সিকিউশনের সময় স্থির থাকে অন্যদিকে প্রোগ্রাম তার প্রয়োজন অনুযায়ী  ডায়নামিক লিঙ্ক তৈরী করে।ডায়নামিক লিঙ্ক প্রোগ্রামকে বিভিন্ন রিসোর্স যেমন  মেমরী এবং হার্ডডিস্ক স্পেস দক্ষতার সাথে ব্যবহার করতে সাহায্য করে। DLL  ফাইল কে একই সময় একাধিক প্রোগ্রাম ব্যবহার করতে পারে।কিছু DLL ফাইল</p>
 <p>উইন্ডোজ অপারেটিং সিস্টেমের সাথে দেয়া থাকে এবং কিছু DLL ফাইল প্রোগ্রাম  ইন্সটল করার সাথে সাথে যুক্ত হয়। DLL ফাইলের সবচেয়ে বড় সুবিধা হচ্ছে এটি  মেইন প্রোগ্রামের সাথে র‍্যাম(ram) এ জায়গা দখল করে না।বরং যখন একে ডাকা হয়  তখন এটি লোড হয় বা র‍্যামে জায়গা দখল করে।যেমন আপনি যখন মাইক্রোসফট  ওয়ার্ডে কোন ডকুমেন্ট এডিট করবেন তখন প্রিন্টার DLL ফাইল র‍্যামে লোড হবে  না।কিন্তু আপনি যখন ঔ ডকুমেন্ট প্রিন্ট করতে যাবেন তখন কেবল প্রিন্টার DLL  ফাইল র‍্যামে লোড হবে এবং রান হবে । DLL ফাইলের এক্সটেনশন হিসেবে সাধারনত  .dll থাকে।এছাড়া <em> .exe, .drv,</em> <em>.fon </em><em>ইত্যাদিও </em>এক্সটেনশন হিসেবে থাকতে পারে।<em> </em></p>
-<p><em><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/dll.png" border="0" /><br /></em></p>]]></description>
+<p><em><img src="/images/fileformat/AM/dll.png" border="0" /><br /></em></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 25 Aug 2011 20:12:21 +0000</pubDate>
 		</item>
 		<item>
 			<title>GIF</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/gif</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/gif</guid>
+			<link>/fileformat/gif</link>
+			<guid isPermaLink="true">/fileformat/gif</guid>
 			<description><![CDATA[<p>GIF এর পুর্ণরূপ হচ্ছে “গ্রাফিক্স ইন্টারচেঞ্জ ফরমেট”( Graphics  Interchange Format)। GIF হচ্ছে একটি  বিটম্যাপ(Bitmap) ইমেজ ফাইল ফরমেট।  GIF  ইমেজ একটি কম্প্রেসন ফর্মুলা ব্যবহার করে তৈরী করা হয় যা ডেভেলপ করেছে  Compuserve  ১৯৮৭ সালে। GIF এর ভিত্তি হচ্ছে ইন্ডেক্সড কালারযা হল ২৫৬  কালারের একটি পেলেট( palette)।মুলত এটিই ফাইল সাইজকে ছোট করতে সাহায্য করে।  GIF ইমেজ আকারে ছোট হওয়ার কারনে নেটওয়ার্কের মধ্যে দিয়ে খুব সহজে এবং দ্রত  আদান প্রদান করা যায়। এজন্যই ওয়েবপেজে GIF ইমেজের ব্যবহার দেখা  যায়।ছোট  ছোট আইকন এবং অ্যানিমেটেড ইমেজ তৈরীর জন্য GIF ব্যবহার করা হয়।তবে কালার  রেঞ্জের সীমাবদ্ব তার কারণে হাই কোয়ালিটি ফটোর ক্ষেত্রে  GIF ব্যবহার করা  যায় না। GIF  ফাইলের এক্সটেনশন হচ্ছে . GIF।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/gif.gif" border="0" width="374" height="374" /></p>]]></description>
+<p><img src="/images/fileformat/AM/gif.gif" border="0" width="374" height="374" /></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 25 Aug 2011 20:22:20 +0000</pubDate>
 		</item>
 		<item>
 			<title>JPEG</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/jpeg</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/jpeg</guid>
+			<link>/fileformat/jpeg</link>
+			<guid isPermaLink="true">/fileformat/jpeg</guid>
 			<description><![CDATA[<p>JPEG এর পুর্ণরূপ  হচ্ছে “জয়েন্ট ফটোগ্রাফিক এক্সপার্টস গ্রুপ”(  Joint Photographic Experts  Group)। জয়েন্ট ফটোগ্রাফিক এক্সপার্টস গ্রুপ   নামক কমিটি এই ফরমেটটি ডেভেলপ  করে।তাই এর নামকরণ করা হয়েছে কমিটির নাম  অনুসারে। JPEG হচ্ছে একটি  কম্প্রেসড( compressed)ইমেজ ফাইল ফরমেট।GIF এর  মত JPEG</p>
 <p>কিছু নির্দিষ্ট  কালারের মধেয় সীমাবদ্ব নয়।তাই JPEG ফরমেটের ইমেজগুলো অনেক  বেশি কালারফুল  এবং হাই রেজ্যুলেশন সম্পন্ন হয়। তবে JPEG ফরমেটে ইমেজ কে  কম্প্রেস করার সাথে  সাথে এর কোয়ালিটিও কমতে থাকে। যখন আপনি কোন একটি ইমেজকে  অধিক পরিমান  কম্প্রেস করবেন ইমেজটি তত বেশি ব্লকি (বেশি জুম করলে ফেটে যাওয়া) হয়ে উঠবে। তারপরও ইমেজ  কম্প্রেস করার  জন্য সবচেয়ে উত্তম পদ্বতি হচ্ছে JPEG। JPEG  ফরমেটের ইমেজ  হচ্ছে  ক্রসপ্ল্যাটফরম অর্থাৎ এটি ম্যাক এবং পিসিতে  দেখতে একইরকম। JPEG এর   এক্সটেনশন হচ্ছে .jpeg অথবা .jpg।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/jpg_logo.gif" border="0" /></p>
+<p><img src="/images/fileformat/AM/jpg_logo.gif" border="0" /></p>
 <p> </p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 25 Aug 2011 20:24:12 +0000</pubDate>
 		</item>
 		<item>
 			<title>MP3</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/mp3</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/mp3</guid>
+			<link>/fileformat/mp3</link>
+			<guid isPermaLink="true">/fileformat/mp3</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">MP3  এর পুর্ণরূপ হচ্ছে “এম.পি.ই.জি-১  অডিও লেয়ার-৩”( MPEG-1 Audio Layer-3)। MP3 হচ্ছে একটি জনপ্রিয় অডিও ফাইল  ফরমেট। এম.পি৩   ফাইলের সাইজ আনকম্প্রেসড ওয়েভ( WAVE) অথবা AIFF ফাইলের  চেয়ে দশগুন ছোট।কিন্তু সাউন্ড কোয়ালিটি প্রায়ই একইরকম।সাইজে ছোট এবং ভাল  সাউন্ড কোয়ালিটির জন্য<br /> এম.পি৩  ফরমেট পিসিতে বা অন্য যেকোন পোর্টেবল ডিভাইসে গান স্টোর করার জন্য  অত্যন্ত জনপ্রিয়। এম.পি৩ ফরমেট আসার পর পরই ইন্টারনেট থাকে গান ডাউনলোড করা  জনপ্রিয় হয়ে উঠে।কম্পিউটারে  এম.পি৩   গান শুনার জন্য আপনাকে প্রথমে  এম.পি৩   প্লেয়ার ইন্সটল করতে হবে।বেশিরভাগ এম.পি৩  প্লেয়ার আপনাকে সিডির  অডিও ট্র্যাককে এম.পি৩  ফাইল রূপান্তর করতে সাহায্য করে। এম.পি৩  ফাইল আপনি  সিডিতে বার্ন ও করতে পারেন।এম.পি৩ ফাইলের এক্সটেনশন .MP3.</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/mp3-logo.jpg" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/fileformat/AM/mp3-logo.jpg" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Sun, 28 Aug 2011 02:40:48 +0000</pubDate>
 		</item>
 		<item>
 			<title>MPEG</title>
-			<link>http://servereditor.omnibloodbank.tk/fileformat/mpeg</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/fileformat/mpeg</guid>
+			<link>/fileformat/mpeg</link>
+			<guid isPermaLink="true">/fileformat/mpeg</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">MPEG  এর পুর্ণরূপ হচ্ছে “মুভিং পিকচার  এক্সপার্টস গ্রুপ”( Moving Picture Experts Group)। MPEG অরগানাইজেশন  ISO  (International Organization for Standardization) এর সাথে মিলিত ভাবে  ডিজিটাল অডিও এবং ভিডিও কম্প্রেশনের স্ট্যান্ডার্ড ডেভেলপ করে।গ্রুপটি অডিও  ও ভিডিও ফাইলকে আরো নিখুঁত ভাবে কম্প্রেস এবং স্টোর করার জন্য প্রতিনিয়ত  কাজ করে যাচ্ছে।এম.পি.ই.জি দ্বারা মুলত একপ্রকার মাল্টিমিডিয়া ফাইলকে  বুঝায়।আর এই ফাইল হচ্ছে কম্প্রেসড মুভি যা একই সাথে অডিও ও ভিডিও ডাটা বহন  করে।যদিও এটি কম্প্রেস করা তারপরও এটি  আনকম্প্রেসড মুভির  অরজিনাল  কোয়ালিটি বজায় রাখে।ওয়েবে আমরা যে মুভি ট্রেইলার এবং মিউজিক ভিডিও দেখি তার  বেশির ভাগই হচ্ছে MPEG ফরমেটের। MPEG ফাইল ফরমেটের   এক্সটেনশন হচ্ছে   .mpg  অথবা .mpeg।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/fileformat/AM/mpeg.gif" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/fileformat/AM/mpeg.gif" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Sun, 28 Aug 2011 02:41:36 +0000</pubDate>
 		</item>

@@ -4,107 +4,107 @@
 	<channel>
 		<title>software - টেকনোলজি বেসিক</title>
 		<description>software</description>
-		<link>http://servereditor.omnibloodbank.tk/software</link>
+		<link>/software</link>
 		<lastBuildDate>Tue, 24 Mar 2015 04:45:42 +0000</lastBuildDate>
 		<generator>Joomla! 1.6 - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="http://servereditor.omnibloodbank.tk/software?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="/software?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
 		<item>
 			<title>Abend</title>
-			<link>http://servereditor.omnibloodbank.tk/software/abend</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/abend</guid>
+			<link>/software/abend</link>
+			<guid isPermaLink="true">/software/abend</guid>
 			<description><![CDATA[<p>অ্যাবেন্ড-র  পূর্ণরূপ হল “Abnormal end”। এর অর্থ হল কোন একটি কাজ  প্রক্রিয়াধীন  অবস্থায় অপ্রত্যাশিত কিংবা অস্বাভাবিকভাবে থেমে যাওয়া।  কম্পিউটার  সফটওয়্যারের ক্ষেত্রে, কোন সফটওয়্যার হঠাত ক্র্যাশ করলে যখন  এর কোন  প্রোগ্রাম অপ্র<span class="text_exposed_show">ত্যাশিতভাবে  বন্ধ হয়ে যায় তখন তাকে অ্যাবেন্ড বলে।  উদাহরণস্বরূপঃ কোন প্রোগ্রামের  কোডে সমস্যা দেখা দিলে সেটিতে কোন নির্দেশনা  দিলে ফ্রীজ কিংবা ক্র্যাশ  করতে পারে। অর্থাৎ পুরো প্রোগ্রামটি একটি  অপ্রত্যাশিত বন্ধের সম্মুখীন হয়।  সর্বপ্রথম এই অ্যাবেন্ড শব্দটি ব্যবহৃত  হয় আইবিএম ওএস/৩৬০ সিস্টেমে কোন  এরর মেসেজ প্রদানের ক্ষেত্রে। বর্তমানে  এটি নোভেল সফটওয়্যার সিস্টেমে এবং  সেই সাথে একটি সাধারণ প্রোগ্রামিং টার্ম  হিসেবেও ব্যবহৃত হয়।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/abend.png" border="0" width="411" height="118" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/abend.png" border="0" width="411" height="118" /><br /></span></p>]]></description>
 			<author>nabilahmad86@yahoo.com (নাবিল আহমাদ)</author>
 			<pubDate>Thu, 07 Jul 2011 17:21:23 +0000</pubDate>
 		</item>
 		<item>
 			<title>Access</title>
-			<link>http://servereditor.omnibloodbank.tk/software/access</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/access</guid>
+			<link>/software/access</link>
+			<guid isPermaLink="true">/software/access</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">‘মাইক্রোসফট  অ্যাকসেস’ যেটা ‘এমএস  অ্যাকসেস’ নামেও পরিচিত, উইন্ডোজের একটি জনপ্রিয়  ডাটাবেজ অ্যাপ্লিকেশন।  অ্যাকসেস একজন ইউজারকে নিজের পছন্দমত ডাটাবেজ তৈরী  করতে এবং সুসজ্জিতভাবে  তথ্য সংরক্ষণ করতে দেয়। এই ডাটাবেজে ভিজুয়্যালি  কিংবা স্প্রেডশিট  ইন্টারফেসের মাধ্যমে ডাটা বা তথ্য প্রবেশ করানো হয়।  অ্যাকসেস ডাটাবেজে  যেসব তথ্য সংরক্ষিত হয় সেসব দেখা, সেসবে খোঁজা কিংবা  প্রবেশ করার জন্য  ওয়েব সার্ভিসসহ অন্যান্য বিভিন্ন প্রোগ্রাম ব্যবহার করা  যায়। </span></p>
 <p><span class="text_exposed_show">যেহেতু  অ্যাকসেস হচ্ছে একধরণের মালিকানাধীণ ডাটাবেজ ম্যানেজমেন্ট  সিস্টেম(DBMS),  সেহেতু এটি অন্যান্য ডাটাবেজ সিস্টেমকেও সমর্থন করে যেমনঃ  ওপেন ডাটাবেজ  কানেক্টিভিটি(ODBC)। এর ফলে এমএস এসকিউএল(MS SQL),  ফক্সপ্রো(FoxPro),  ফাইলমেকার প্রো(Filemaker Pro) এবং ওরাকল(Oracle)-র মত  ডাটাবেজ সিস্টেমে  এবং একইসাথে এসব সিস্টেম থেকে প্রয়োজনমত তথ্য আদান-প্রদান  করা যায়। আর এই  উপযোগীতার কারণেই অ্যাকসেস ডাটাবেজ নির্ভর ওয়েবসাইটে  ব্যবহার করা যায়।  তথাপি মাইক্রোসফট ফ্রন্টপেজ এবং এক্সপ্রেশন ওয়েব এমনকি  এএসপি.নেট(ASP.NET)  বিল্ট-ইন ভাবে অ্যাকসেস ডাটাবেজ সমর্থন করে। এসব কারণেই  মাইক্রোসফট  উইন্ডোজ সার্ভারে যেসব ওয়েবসাইট হোস্ট করা থাকে সেগুলো  ডায়নামিক কন্টেন্ট  তৈরীর জন্য অ্যাকসেস ডাটাবেজ ব্যবহার করে।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/access.png" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/access.png" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (নাবিল আহমেদ)</author>
 			<pubDate>Thu, 07 Jul 2011 17:26:35 +0000</pubDate>
 		</item>
 		<item>
 			<title>ACL</title>
-			<link>http://servereditor.omnibloodbank.tk/software/acl</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/acl</guid>
+			<link>/software/acl</link>
+			<guid isPermaLink="true">/software/acl</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">এসিএল-র  পূর্ণরূপ হল “Access Control  List”। কোন ফাইল, ফোল্ডার কিংবা অন্যান্য  বস্ত ব্যবহারে অনুমতির তালিকাকে  এসিএল বলে। এর মানে হল একজন কিংবা কয়েকজন  ব্যবহারকারি কোন অংশ ব্যবহার  করতে এবং কি কি কাজ করতে পারবে তার বিবরণী। এই  কাজের মধ্যে পড়ে রিড, রাইট  এবং এক্সিকিউট করা। যেমনঃ যদি এসিএল-এ  বিশেষভাবে একজন ইউজারকে শুধুমাত্র  ‘রিড-অনলি’ অনুমতি দেয়া থাকে, তাহলে সেই  ইউজার শুধু ফাইলটি খুলতে পারবে,  কিন্তু কিছুই লিখতে পারবে না। </span></p>
 <p><span class="text_exposed_show">এভাবেই এসিএল  সরাসরি ফাইল ও ফোল্ডারের  ব্যবহারক্ষেত্র নিয়ন্ত্রণ করে। বেশীরভাগ  অপারেটিং সিস্টেম যেমনঃ উইন্ডোজ,  ম্যাক এবং ইউনিক্সসিস্টেমে এটি ব্যবহার  করা যায়। যদিও এসিএল ইউজারদের থেকে  লুকিয়ে রাখা হয়, তবে গ্রাফিকাল  ইন্টারফেস ব্যবহার করা এগুলোকে প্রয়োজনমত  পরিবর্তন করা যায়। যেমনঃ ইউনিক্স  সিস্টেমে chmod() কমান্ড ব্যবহার করে  এসিএল এডিট করা যায়।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/acl.jpg" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/acl.jpg" border="0" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (নাবিল আহমেদ)</author>
 			<pubDate>Thu, 07 Jul 2011 17:30:51 +0000</pubDate>
 		</item>
 		<item>
 			<title>Add-on</title>
-			<link>http://servereditor.omnibloodbank.tk/software/add-on</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/add-on</guid>
+			<link>/software/add-on</link>
+			<guid isPermaLink="true">/software/add-on</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">অ্যাড-অন  হচ্ছে কোন সফটওয়্যারের কিছুটা  প্রসারণ যেটা ওই প্রোগ্রামে কিছু বাড়তি  ফিচার বা সুবিধা যোগ করে। এটা হতে  পারে সেই প্রোগ্রামটির কার্যপরিধি বৃদ্ধি  করে বা এর ইন্টারফেসে নতুন  উপাদান যোগ করে কিংবা একে বাড়তি কোন ক্ষমতা  দেয়। উদাহরণস্বরূপঃ জনপ্রিয়  ওয়েব ব্রাউজার মোজিলা ফায়ারফক্স বিভিন্ন  অ্যাড-অন যেমনঃ গুগল টুলবার,  অ্যাড ব্লকার, ওয়েব ডেভেলপার টুল ইত্যাদি  সমর্থন করে। কিছু কম্পিউটার  গেমেও অ্যাড-অন ব্যবহার করে আলাদা ম্যাপ,  চরিত্র বা প্লেয়ারকে গেম  নিয়ন্ত্রণের আলাদা ক্ষমতা পাওয়া যায়। <br /></span></p>
 <p><span class="text_exposed_show">বেশীরভাগ  অ্যাড-অন স্বয়ংক্রিয় প্যাকেজরূপে পাওয়া যায়। এর মানে হল একজন  ইউজার খুব  সহজে এই প্যাকেজে ডাবল-ক্লিক করার মাধ্যমে সংশ্লিষ্ট  প্রোগ্রামে তা ইন্সটল  করতে পারেন। অন্যান্য অ্যাড-অনকে ম্যানুয়েলি আলাদা  নির্দিষ্ট ডিরেক্টরীতে  প্রবেশ করাতে হয়। যদিও অনেক প্রোগ্রামই অ্যাড-অন  সমর্থন করে না, তবে  বর্তমানে অসংখ্য প্রোগ্রাম তৈরী হচ্ছে অ্যাড-অন সুবিধা  রেখে, কারণ এতে খুব  সহজে ডেভেলপাররা তাদের প্রোগ্রামটির উন্নতিসাধন করতে  পারেন।<br /> যাহোক, সব  সফটওয়্যার প্রোগ্রামেই একে অ্যাড-অন বলা হয় না। যেমনঃ  “ড্রিমওয়েভার”  ‘এক্সটেনসন’ সমর্থন করে, যা আলাদা নতুন ওয়েব ডেভেলপমেন্টের  সুবিধা যোগ করে।  এছাড়া “এক্সেল” ‘অ্যাড-ইন্স’ সমর্থন করে এবং এটি  স্প্রেডশীটের নতুন নতুন  সুবিধা দেয়। অনেক প্রোগ্রামে ‘প্লাগ-ইন’ ব্যবহৃত  হয় যেটা অ্যাড-অন এরই  সমার্থক মাত্র।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/addon.png" border="0" width="362" height="388" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/addon.png" border="0" width="362" height="388" /><br /></span></p>]]></description>
 			<author>nabilahmad86@yahoo.com (নাবিল আহমাদ)</author>
 			<pubDate>Thu, 07 Jul 2011 17:31:55 +0000</pubDate>
 		</item>
 		<item>
 			<title>AIX</title>
-			<link>http://servereditor.omnibloodbank.tk/software/aix</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/aix</guid>
+			<link>/software/aix</link>
+			<guid isPermaLink="true">/software/aix</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">এআইএক্স  এর পূর্ণরূপ হল “Advanced  Interactive Executive”, যদিও কিছু লিনাক্স  ফ্যান একে “Ain't UNIX” বলে।  এআইএক্স হল একটি ইউনিক্স ভিত্তিক অপারেটিং  সিস্টেম যা সর্বপ্রথম আইবিএম  ডেভেলপ করে। কারবেরোস ভি৫(Kerberos V5)  নেটওয়ার্ক অথেনটিকেশন এবং ডায়নামিক  সিকিউর টানেল অথেনটিকেশনের মত শক্তিশালী  অপশনসহ গড়া এই ওএসটি মূলত  সার্ভেরের কর্মকান্ডে ব্যবহৃত হয়। </span></p>
 <p><span class="text_exposed_show">এআইএক্স এর  মাধ্যমে সিস্টেম  অ্যাডমিনিস্ট্রেটর বিভিন্ন কাজের জন্য মেমরি বিভাজন,  সিপিইউ ও ডিস্ক  অ্যাকসেস করতে পারেন। এই সিস্টেমটি আইবিএম ৬৪ বিট পাওয়ার  প্রসেসরকে সমর্থন  করে। এছাড়া এটি বেশীরভাগ লিনাক্স অ্যাপ্লিকেশনকে সমর্থন  করে এবং জাভা ২  কে পূর্ণমাত্রায় সমর্থন করে। তবে এর ফিচারগুলিতে অনেকে  সন্তুষ্ট নাও হতে  পারে। এর কারণ মূলত এটি সাধারণ ভোক্তামুখী কোন অপারেটিং  সিস্টেম নয়, বরং  বড় বড় ব্যবসায় প্রধাণত সার্ভারে এটি ব্যবহৃত হয়।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/aix.jpg" border="0" width="396" height="297" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/aix.jpg" border="0" width="396" height="297" /><br /></span></p>]]></description>
 			<author>nabilahmad86@yahoo.com (নাবিল আহমাদ)</author>
 			<pubDate>Tue, 12 Jul 2011 16:01:58 +0000</pubDate>
 		</item>
 		<item>
 			<title>Alert Box</title>
-			<link>http://servereditor.omnibloodbank.tk/software/alert-box</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/alert-box</guid>
+			<link>/software/alert-box</link>
+			<guid isPermaLink="true">/software/alert-box</guid>
 			<description><![CDATA[<p class="uiStreamMessage"><span class="messageBody">আমরা  যখন কম্পিউটারে আমাদের ক্ষতি হতে পারে এমন কোন কাজ করতে যায়,তখন কম্পিউটার  স্ক্রীনে একটি ছোট উইন্ডো ভেসে উঠে এবং আমাদের ঐ কাজ়  সম্পর্কে সর্তক করে  দেয়।আর এই ছোট উইন্ডোটিকেই “এ্যালর্ট বক্স”( AlertBox) বলে।যেমন আমরা যখন  রিসাইকেল বিন বা ট্রাশ খালি করতে চাই তখন একটি উইন্ডোতে এই লেখাটি ভেসে আসে  "Are you sure you want to permanently remove these items?"এই লেখাটির  নিচে "OK," এবং "Cancel," দুইটি অপশন থাকে।এখন আমরা যদি "OK," অপশনে ক্লিক  করি তাহলে রিসাইকেল বিন বা ট্রাশে থাকা সকল ফাইল ডিলিট হয়ে যাবে।আর যদি  "Cancel," অপশনে ক্লিক করি তাহলে কোন ফাইলই ডিলিট হবে না।</span></p>
 <p class="uiStreamMessage"><span class="messageBody">“এ্যালর্ট বক্স”  অনেকটা  সেফগার্ডের মতো কাজ করে।অনেক সময় আমরা যখন আমাদের অজান্তেই কোন  ফাইল ডিলিট করে দিতে চাই তখন “এ্যালর্ট বক্স” আমাদেরকে সর্তক করে  দেয়।“এ্যালর্ট বক্স” এর সবচেয়ে কমন উদাহরণ  হচ্ছে আমরা যখন কোন ডকুমেন্ট   সেভ করা ছাড়া বন্ধ করতে চাই তখন স্ক্রীনে এই লেখাটি ভেসে আসে "Save changes  to this document before closing?" এর নিচে “YES”, “NO”, “CANCEL” এই  তিনটি অপশন থাকে।এখন আপনি যদি “YES” ক্লিক করেন তাহলে আপনার ডকুমেন্টটি সেভ  হয়ে যাওয়ার পর বন্ধ হবে ।আর যদি “NO” ক্লিক করেন তাহলে আপনার ডকুমেন্টটি  সেভ করা ছাড়াই বন্ধ হয়ে যাবে আর।যদি “CANCEL”  ক্লিক করেন তাহলে আপনার  ডকুমেন্টটি বন্ধ হবেনা।এখন আপনি চাইলেই আপনার ডকুমেন্টে কাজ করতে  পারেন।অনেক সময় “এ্যালর্ট বক্স” এ মেসেজের নিচে শুধুমাত্র  "OK," ও  থাকতে  পারে। “এ্যালর্ট বক্স” এর  স্ট্যান্ডার্ড আইকন হচ্ছে – একটি ত্রিভুজের  মধ্যে বিস্ময়বোধক চিহ্ন(!)।</span></p>
-<p class="uiStreamMessage"><span class="messageBody"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/aleart.jpg" border="0" width="398" height="335" /><br /></span></p>]]></description>
+<p class="uiStreamMessage"><span class="messageBody"><img src="/images/software/AE/aleart.jpg" border="0" width="398" height="335" /><br /></span></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 28 Jul 2011 21:24:17 +0000</pubDate>
 		</item>
 		<item>
 			<title>Algorithm</title>
-			<link>http://servereditor.omnibloodbank.tk/software/algorithm</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/algorithm</guid>
+			<link>/software/algorithm</link>
+			<guid isPermaLink="true">/software/algorithm</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">কোন  একটি সমস্যা সমাধানের ধারাবাহিক  প্রক্রিয়া বা ধাপকে এলগরিদম বলা  হয়। কম্পিউটার টার্ম হিসেবে এর অর্থ হল  কোন একটি প্রোগ্রাম তৈরীর ধারাবাহিক  প্রক্রিয়া বা ধাপ। এটি হতে পারে কোন  সাধারন সমস্যা যেমনঃ  দুইটা সংখ্যা যোগ করা আবার কোন জটিল সমস্য যেমনঃ কোন  ছবি এডিট করা। যেমন একটি  ছবি স্পষ্ট করতে হলে প্রথমে ঐ ছবির পিক্সেল গুলো  সনাক্ত করতে হবে,তারপর  কোন পিক্সেল কতটূকু পরিবর্তন করলে ছবিটি স্পট হবে  তা নির্ণয়  করা।</span></p>
 <p><span class="text_exposed_show">প্রোগ্রামাররা এলগরিদম তৈরীর জন্যই সবচেয়ে বেশি সময় ব্যয়  করে।কারন  এলগরিদম তৈরীর সময় তাদের খেয়াল রাখতে হয় যাতে এটি মেমোরীতে  যথাসম্ভব কম  জায়গা দখল করে এবং কম্পিউটারে অন্য কোন প্রোগ্রামকে নষ্ট না  করে।দুর্বল  এলগরিদম অনেক সময় কম্পিউটার সিস্টেমকে স্লো করে দেয় এমনকি  ক্র্যাশও  করে  দিতে পারে।তাই এলগরিদম লেখার সময় প্রোগ্রামারদের সবসময়  সতর্ক থাকতে হয়।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/algorithm.gif" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/algorithm.gif" border="0" /><br /></span></p>]]></description>
 			<author>nabilahmad86@yahoo.com (পাভেল ফাহমি)</author>
 			<pubDate>Tue, 12 Jul 2011 16:03:24 +0000</pubDate>
 		</item>
 		<item>
 			<title>Android</title>
-			<link>http://servereditor.omnibloodbank.tk/software/android</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/android</guid>
+			<link>/software/android</link>
+			<guid isPermaLink="true">/software/android</guid>
 			<description><![CDATA[<p>বর্তমান  সময়ের সবচেয়ে জনপ্রিয় মোবাইল অপারেটিং সিস্টেম হচ্ছে অ্যানড্রয়েড   (Android)।  অ্যানড্রয়েড ডেভেলপ করেছে ইন্টারনেট জায়ান্ট গুগল। মটোরোলা   ড্রইড,স্যামসাং গ্যালাক্সী,গুগলের নেক্সাস ওয়ান সহ বিভিন্ন জনপ্রিয়   স্মার্টফোন অ্যানড্রয়েড  অপারেটিং সিস্টেম চালিত। অ্যানড্রয়েড অপারেটিং   সিস্টেম ওপেন লিনাক্স কার্নেল এর উপর ভিত্তি করে তৈরী করা   হয়েছে। অ্যানড্রয়েড হচ্ছে ওপেনসোর্স যার মানে ডেভেলপাররা অ্যানড্রয়েডকে   তাদের ইচ্ছে মত পরির্বতন এবং পরির্বধন করতে পারে।</p>
 <p>এজন্যই অ্যানড্রয়েড চালিত   বিভিন্ন ফোনের গ্রাফিক্যাল ইউজার ইন্টারফেস বিভিন্ন হয়। অ্যানড্রয়েডে কিছু   বিল্ট-ইন অ্যাপ্লিকেশান থাকে পাশাপাশি এটি থার্ড পার্টি প্রোগ্রাম ও   সাপোর্ট করে। ডেভেলপাররা অ্যানড্রয়েড “সফটওয়্যার ডেভেলপার কিট” সংক্ষেপে SDK   ব্যবহার করে অ্যানড্রয়েড এর জন্য প্রোগ্রাম তৈরী  করতে পারে। অ্যানড্রয়েড   সাধারনত জাভা লাঙ্গুয়েজ দ্বারা লেখা হয়।বিভিন্ন অ্যানড্রয়েড অ্যাপ্লিকেশান   ডাউনলোড করার জন্য রয়েছে  “অনলাইন অ্যানড্রয়েড মার্কেট”। অ্যানড্রয়েড  নামটি  এসেছে “অ্যানড্রয়েড” নামক  একটি রোবট এর নাম থাকে যা দেখতে শুনতে  মানুষের  মত।</p>
-<p><img src="http://servereditor.omnibloodbank.tk/images/software/AE/androyed.jpg" border="0" /></p>]]></description>
+<p><img src="/images/software/AE/androyed.jpg" border="0" /></p>]]></description>
 			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Thu, 28 Jul 2011 21:26:17 +0000</pubDate>
 		</item>
 		<item>
 			<title>Antivirus</title>
-			<link>http://servereditor.omnibloodbank.tk/software/antivirus</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/antivirus</guid>
+			<link>/software/antivirus</link>
+			<guid isPermaLink="true">/software/antivirus</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">মানুষ  যেমন ভাইরাস আক্রান্ত হলে বা  আক্রান্ত না হওয়ার জন্য বিভিন্ন  অ্যান্টিভাইরাস গ্রহণ করে,তেমনি  কম্পিউটারকেও  “কম্পিউটার ভাইরাস” মুক্ত  রাখতে অ্যান্টিভাইরাস এর প্রয়োজন  হয় । কম্পিউটার অ্যান্টিভাইরাস সফটওয়্যার  হচ্ছে একপ্রকার ইউটিলিটি যার  প্রাথমিক কাজই  হচ্ছে কম্পিউটারকে ভাইরাস  মুক্ত রাখা। অ্যান্টিভাইরাস  সফটওয়্যার কম্পিউটারকে স্ক্যান করে এবং কোন  ভাইরাস খুঁজে  পেলে তা  কম্পিউটার থেকে অপসারণ করে। সাধারণত বেশিরভাগ  অ্যান্টিভাইরাস প্রোগ্রাম  অটোমেটিক এবং ম্যা্নুয়াল স্ক্যানিং  করতে  পারে। অটোমেটিক স্ক্যানিং   পদ্বতিতে, আপনি যখন কোন ফাইল ইন্টারনেট থেকে  ডাউনলোড করবেন অথবা কোন  ডিস্ক  বা পেনড্রাইভ কম্পিউটারে প্রবেশ করাবেন অথবা  সফটওয়্যার ইন্সটলার  দিয়ে ফাইল তৈরী করবেন, অ্যান্টিভাইরাস তা  অটোমেটিক্যালি স্ক্যান করবে।</span></p>
 <p><span class="text_exposed_show">আবার  এই পদ্বতিতে অ্যান্টিভাইরাস নিয়মিত আপনার  হার্ডড্রাইভকেও  স্ক্যান  করবে।আর ম্যা্নুয়াল স্ক্যানিংএ আপনি আপনার প্রয়োজন  মত যেকোন সময় যেকোন  ফাইল স্ক্যান করতে পারেন।যেহেতু হ্যাকাররা প্রতিনিয়ত  নতুন নতুন ভাইরাস  তৈরী করছে,তাই অ্যান্টিভাইরাসের ডাটাবেজও প্রতিনিয়ত আপডেট  করতে হয়।তবে  বেশিরভাগ অ্যান্টিভাইরাস নিজে নিজে নিয়মিত ডাটাবেজকে আপডেট   করে।প্রথম  দিকে অ্যান্টিভাইরাস তৈরী করা হয়েছিল কম্পিউটারকে  শুধুমাত্র  ভাইরাস মুক্ত  রাখার জন্য।কিন্তু বর্তমানে অ্যান্টিভাইরাসগুলো ভাইরাস  প্রতিরোধের  পাশাপাশি অন্যান্য মেইলওয়ার যেমন অ্যাডওয়ার,স্পাইওয়ার,রুটকিটসও   প্রতিরোধ  করে। বর্তমানে কিছু কিছু অ্যান্টিভাইরাসের  সাথে ফায়ারওয়াল যুক্ত  থাকে যা   কম্পিউটারকে অবৈধ অনুপ্রবেশ থেকে রক্ষা করে। এটি  “ইন্টারনেট  সিকিউরিটি”  নামে পরিচিত। যদিও উইন্ডোজ,মাকিন্টোশ,ইউনিক্স বিভিন্ন অপারেটিং   সিস্টেমের  জন্য অ্যান্টিভাইরাস পাওয়া যায়,তবে সবচেয়ে বেশি অ্যান্টিভাইরাস  প্রয়োজন  হয় উইন্ডোজ অপারেটিং সিস্টেমের জন্য। কারন ভাইরাস উইন্ডোজ অপারেটিং  সিস্টেম  চালিত কম্পিউটারকে সহজেই আক্রমন করতে পারে।আপনার কম্পিউটার যদি  উইন্ডোজ  চালিত হয় তবে আপনাকে অবশ্যই অ্যান্টিভাইরাস ব্যবহার করতে  হবে। উল্লেখযোগ্য  অ্যান্টিভাইরাসগুলো হছে নরটন,ক্যাস্পারস্কি,জ়োনএলার্ম  ইত্যাদি।আপনি যদি  অ্যান্টিভাইরাস ব্যবহার করতে না চান তবে আপনি লিনাক্স  ভিত্তিক অপারেটিং  সিস্টেম ব্যবহার করতে পারেন কারণ লিনাক্স ভিত্তিক  অপারেটিং সিস্টেম ভাইরাস  দ্বারা আক্রান্ত হয় না।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/antivirus-must-for-every-pc.jpg" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/antivirus-must-for-every-pc.jpg" border="0" /><br /></span></p>]]></description>
 			<author>pavel99nstu@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Tue, 12 Jul 2011 16:29:49 +0000</pubDate>
 		</item>
 		<item>
 			<title>API</title>
-			<link>http://servereditor.omnibloodbank.tk/software/api</link>
-			<guid isPermaLink="true">http://servereditor.omnibloodbank.tk/software/api</guid>
+			<link>/software/api</link>
+			<guid isPermaLink="true">/software/api</guid>
 			<description><![CDATA[<p><span class="text_exposed_show">এপিআই  এর পূর্নরূপ হচ্ছে “অ্যাপ্লিকেশান  প্রোগ্রাম ইন্টারফেস”(Application  Program Interface)।যদিও একে  “অ্যাপ্লিকেশান প্রোগ্রামিং  ইন্টারফেস”(Application Programming  Interface) ও বলা হয়। এপিআই  হচ্ছে  একগুচ্ছ নির্দেশনা, ফাংশন, প্রটোকল যা  কোন নির্দিষ্ট অপারেটিং সিস্টেমের  জন্য সফটওয়্যার তৈরীতে ব্যবহৃত  হয়।<br /> এপিআই প্রোগ্রামারদের পুর্বে তৈরী  করা ফাংশন ব্যবহার করা সুযোগ দেয়,এর  ফলে প্রোগ্রামাররা খুব সহজেই কোন  নির্দিষ্ট অপারেটিং সিস্টেমের জন্য  সফটওয়্যার তৈরী করতে  পারে ।</span></p>
 <p><span class="text_exposed_show">বিভিন্ন   অপারেটিং সিস্টেম যেমন  উইন্ডোজ,ইউনিক্স,ম্যাক প্রোগ্রামারদের জন্য  তাদের  নিজস্ব এপিআই সরবরাহ  করে।এছড়া ভিডিও কনসোলস সহ বিভিন্ন হার্ডওয়্যার ডিভাইসেও   সফটওয়্যার চালনার  জন্য এপিআই  ব্যবহার করা হয়। এপিআই  যেমন প্রোগ্রামারদের  কাজকে সহজ করে  দেয়, তেমনি ইউজারদেরকেও সুবিধা প্রদান করে।প্রশ্ন হতে পারে  কিভাবে? একই  এপিআই এর দ্বারা তৈরী বিভিন্ন প্রোগ্রামের ইউজার ইন্টারফেস  একই।তাই  ইউজাররা খুব সহজেই এসব প্রোগ্রাম ব্যবহার করতে পারে।</span></p>
-<p><span class="text_exposed_show"><img src="http://servereditor.omnibloodbank.tk/images/software/AE/api.gif" border="0" /><br /></span></p>]]></description>
+<p><span class="text_exposed_show"><img src="/images/software/AE/api.gif" border="0" /><br /></span></p>]]></description>
 			<author>pavel99nstu@gmail.com (পাভেল ফাহমি)</author>
 			<pubDate>Tue, 12 Jul 2011 16:31:03 +0000</pubDate>
 		</item>

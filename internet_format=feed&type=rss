@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>internet - টেকনোলজি বেসিক</title>
+		<description>internet</description>
+		<link>/internet</link>
+		<lastBuildDate>Tue, 24 Mar 2015 04:47:00 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/internet?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>404 Error</title>
+			<link>/internet/404-error</link>
+			<guid isPermaLink="true">/internet/404-error</guid>
+			<description><![CDATA[<p><span style="font-family: SolaimanLipi;" lang="BN">৪০৪ এরর হল একটি <span style="text-decoration: underline;"><a href="/internet/website">ওয়েবসাইটের</a></span> কমন মেসেজ যেটা নির্দেশ করে <span style="text-decoration: underline;"><a href="/internet/web-page">ওয়েবপেজটি</a></span> পাওয়া</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">যায় নি</span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">আবার  এটি হতে পারে যদি ইউজার কোন পুরাতন কিংবা ভুল লিঙ্কে ক্লিক</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">করে তাহলে এই মেসেজটি  দেখাতে পারে</span><span style="font-family: SolaimanLipi;" lang="HI">।" </span><span style="font-family: SolaimanLipi;" lang="BN">৪০৪ এরর বলতে বোঝায় যে</span><span>, </span><span style="font-family: SolaimanLipi;" lang="BN">সার্ভারটি</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">চলমান(</span><span>valid), </span><span style="font-family: SolaimanLipi;" lang="BN">কিন্তু ওয়েবপেজটি কিংবা ওয়েবপেজে যাওয়ার পথটি(</span><span>path) </span><span style="font-family: SolaimanLipi;" lang="BN">বৈধ(</span><span>valid) </span><span style="font-family: SolaimanLipi;" lang="BN">নয়"</span><span> </span></p>
+<p><span style="font-family: SolaimanLipi;" lang="BN">প্রশ্ন জাগতে পারে কেন একে "মিসিং ওয়েবপেজ এরর</span><span>?" </span><span style="font-family: SolaimanLipi;" lang="BN">না</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">বলে "৪০৪ এরর" বলা হয়</span><span>? </span><span style="font-family: SolaimanLipi;" lang="BN">যখন <span style="text-decoration: underline;"><a href="/internet/web-server">ওয়েব সার্ভার</a></span> একটি পেজ খুঁজে পায় না</span><span>, </span><span style="font-family: SolaimanLipi;" lang="BN">তখন  ওয়েব</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">সার্ভার  থেকে ৪০৪ এরর উপন্ন হয় </span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">আর এই এরর কোড সার্চ ইঞ্জিন বুঝতে পারে</span><span style="font-family: SolaimanLipi;" lang="HI">।</span><span lang="HI"> </span><span style="font-family: SolaimanLipi;" lang="BN">ফলে <span style="text-decoration: underline;"><a href="/internet/search-engine">সার্চ  ইঞ্জিন</a></span> সার্চ রেজাল্ট থেকে এই পেজটিকে সরিয়ে রাখে</span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">এমনকি  ৪০৪</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">এররকে  ওয়েবস্ক্রীপ্ট এবং ওয়েব মাস্টার টুলগুলো সনাক্ত করতে পারে</span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">ফলে</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">ওয়েবমাস্টাররা ঐ  পেজটিকে সনাক্ত করে ঠিক করার চেষ্টা করে</span><span style="font-family: SolaimanLipi;" lang="HI">।</span></p>
+<p><strong><span style="font-family: SolaimanLipi;" lang="BN">৪০৪ বলার</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">কারণ: </span></strong><span>WWW </span><span style="font-family: SolaimanLipi;" lang="BN">এর প্রথম ডাটাবেজ বসানো  হয় সুইজারল্যান্ডের একটি অফিসের চারতালার</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">৪০৪ নাম্বার রুমে</span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">সেখানে  ফাইল আদান প্রদান করার সময় ভুল থাকলে </span><span>“</span><span style="font-family: SolaimanLipi;" lang="BN">৪০৪:</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">পাওয়া যায়নি</span><span>” </span><span style="font-family: SolaimanLipi;" lang="BN">মেসেজ লেখা হত</span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">সেখান থেকে আসা শব্দটি দ্বারা এখন সার্ভারে</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">পেজ পাওয়া</span><span> </span><span style="font-family: SolaimanLipi;" lang="BN">না গেলে ৪০৪ এরর দেখানো  হয়</span><span style="font-family: SolaimanLipi;" lang="HI">।</span><span><br /> <br /> </span><span style="font-family: SolaimanLipi;" lang="BN">অনুরুপ: ৪০৩: মানে হল</span><span lang="BN"> </span><span style="font-family: SolaimanLipi;" lang="BN">নিষিদ্ধ </span><span style="font-family: SolaimanLipi;" lang="HI">। </span><span style="font-family: SolaimanLipi;" lang="BN">যেখানে  সাধারণ ইউজার প্রবেশের অনুমতি নেই</span><span style="font-family: SolaimanLipi;" lang="HI">।</span></p>
+<p><span style="font-family: SolaimanLipi;" lang="HI"><img src="/images/internet/AE/404error.jpg" border="0" style="border: 0;" /><br /></span></p>]]></description>
+			<author>ohonab@gmail.com (মাসপি লিনাক্স-মিন্ট)</author>
+			<pubDate>Wed, 29 Jun 2011 15:18:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>ActiveX</title>
+			<link>/internet/activex</link>
+			<guid isPermaLink="true">/internet/activex</guid>
+			<description><![CDATA[<p>১৯৯৬ সালে মাইক্রোসফট OLE ফ্রেমওয়ার্কের অংশ হিসেবে প্রথম <span style="text-decoration: underline;"><a href="/internet/activex">অ্যাক্টিভএক্স</a></span> প্রযুক্তি উদ্ভাবন করে। এর সাহায্যে প্রোগ্রামাররা তাদের সফটওয়্যার বা ওয়েবসাইটে কোনরকম কোডের ব্যবহার ছাড়াই আলাদা ফাংশন যোগ করতে পারে। সফটওয়্যারের যেসব <span style="text-decoration: underline;"><a href="/software/add-on">এড-অন</a></span> অ্যাক্টিভএক্স দ্বারা তৈরি হয় তাদেরকে অ্যাক্টিভএক্স কনট্রোল বলে। সবধরণের প্রোগ্রামে এটি ব্যবহার করা যায়, তবে সাধারনত এটি ছোট ওয়েব এপ্লিকেশনে বেশি ব্যবহৃত হয়ে থাকে। অ্যাক্টিভএক্স এর কারনে ওয়েবডেভেলাপাররা ওয়েবসাইটে অ্যাক্টিভএক্স  কনটেন্ট রাখতে পারে।  সাধারনত এই কনটেন্টগুলো হল প্রেজেন্টেশন, ওয়েববেসড গেম ইত্যাদি। এর মানে হচ্ছে ভিজিটর যদি এ জাতীয় কনটেন্ট দেখতে চায় তাহলে তার অ্যাক্টিভএক্স ইনস্টল থাকতে হবে।  তবে সব<strong></strong><span style="text-decoration: underline;"> <a href="/software/browser">ব্রাউজার</a></span> অ্যাক্টিভএক্স কন্টেন্ট সাপোর্ট করে না যতক্ষণ  পর্যন্ত সেখানে অ্যাক্টিভএক্স প্লাগইন (যেমনঃ অ্যাডোব ফ্ল্যাশ প্লেয়ার অ্যাক্টিভএক্স) থাকে। অফিশিয়ালি  ইন্টারনেট এক্সপ্লোরার একে সাপোর্ট করে। তবে  আজকাল এই প্রযুক্তিকে ওয়েবসাইটে ব্যবহার করা হয় না। এর বদলে <span style="text-decoration: underline;"><a href="/internet/flash">ফ্ল্যাশ</a></span> প্লেয়ার, জাভাস্ক্রীপ্ট বা এমবেডেড মিডিয়া ব্যবহার করা হয়। ইন্টারনেট  এক্সপ্লোরার এর উপর নির্ভরশীল অ্যাপ যেমন ইয়াহু মেসেঞ্জারে অ্যাক্টিভএক্স প্রয়োজন হয়।</p>
+<p><img src="/images/internet/AE/activex.jpg" border="0" /></p>]]></description>
+			<author>likewarid@gmail.com (Super User)</author>
+			<pubDate>Wed, 29 Jun 2011 17:33:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>Address bar</title>
+			<link>/internet/address-bar</link>
+			<guid isPermaLink="true">/internet/address-bar</guid>
+			<description><![CDATA[<p><span class="text_exposed_show"> অ্যাড্রেসবার হল <span style="text-decoration: underline;"><a href="/software/browser">ওয়েব ব্রাউজারের</a></span> উপরের  অংশে থাকা  একটি টেক্সট লেখার জায়গা  যেখানে বর্তমান ওয়েব পেজের ইউআরএল(URL) প্রদর্শিত হয়। </span><span class="text_exposed_show">অ্যাড্রেসবারে ইউজার ম্যানুয়েলি </span><span class="text_exposed_show">ইউআরএল বসাতে পারেন। </span><span class="text_exposed_show">যখন  আমরা নতুন ওয়েবপেজ এ  প্রবেশ করি তখন </span><span class="text_exposed_show">অ্যাড্রেস</span><span class="text_exposed_show">বারের </span><span class="text_exposed_show">ইউআরএল</span><a href="/internet/uri"></a><span class="text_exposed_show">টি স্বয়ংক্রিয়ভাবে পরিবর্তিত হয়। কোন একটি ওয়েবপেজের </span><span class="text_exposed_show">ইউআরএল</span><span class="text_exposed_show"> দেখার জন্য অ্যাড্রেসবার লক্ষ করা হয়। যদি ইউজার কোন নির্দিষ্ট  ওয়েবসাইট বা  ওয়েবপেজে ভিজিট করতে চায় তাহলে অ্যাড্রেসবারে ওয়েব অ্যাড্রেসটি(<span style="text-decoration: underline;"><a href="/internet/uri">URL</a></span>) বসিয়ে এন্টার চাপ  দিলে ব্রাউজারে  ওয়েবপেজটি খুলবে। এছাড়া কী-বোর্ডের এফ সিক্স(F6)  বাটন চেপেও  অ্যাড্রেসবারে  যাওয়া যায়।</span></p>
+<p><span class="text_exposed_show"><img src="/images/internet/AE/address-bar.jpg" border="0" /><br /></span></p>]]></description>
+			<author>likewarid@gmail.com (ফাহমিদা পলি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:37:07 +0000</pubDate>
+		</item>
+		<item>
+			<title>Adware</title>
+			<link>/internet/adware</link>
+			<guid isPermaLink="true">/internet/adware</guid>
+			<description><![CDATA[<p>অ্যাডওয়্যার হল বিজ্ঞাপন দেয়ার ফ্রী  সফটওয়্যার। সাধারনত অ্যাডওয়্যার টুলবার ডেস্কটপে থাকে এবং ওয়েব  ব্রাউজারের সাথে মিলে কাজ করে। এটি হার্ডডিস্ক বা ওয়েবে এডভান্স  সার্চিং অপশন, <a href="/internet/bookmark"><span style="text-decoration: underline;">বুকমার্ক</span></a> কিংবা শর্টকাট-র মত বিভিন্ন ফিচার সমৃদ্ধ। এছাড়া এটি আরো উচ্চতর প্রোগ্রাম যেমন গেম এবং  ইউটিলিটিগুলোতেও ব্যবহৃত হয়। অ্যাডওয়্যারের ব্যবহার বিনামূল্যে হলেও যতক্ষন পর্যন্ত ঐ  প্রোগ্রামগুলো (গেম বা ইউটিলিটি) চলবে ততক্ষন পর্যন্ত  অ্যাডগুলো  দেখতে হবে। আর এজন্যে ইন্টারনেট সংযোগ থাকাটা আবশ্যক।</p>
+<p>বেশিরভাগ অ্যাডওয়্যার নিরাপদভাবে ব্যবহার করা যায় । কিন্ত   কিছু অ্যাডওয়্যার য়াছে যেগুলো স্পাইওয়্যার সরবরাহ করে এবং ব্যবহারকারীর হার্ডডিস্কের তথ্য অথবা কীবোর্ডে  যা যা টাইপ করা হয়েছে এবং যে যে ওয়েবসাইটে ভিজিট করা হয়েছে তার তথ্য   হ্যাকারদের কাছে  পাচার করে দিতে থাকে। সুতরাং, এক্ষেত্রে ইউজারকে  সতর্ক থাকতে হবে   কোন অপরিচিত অ্যাডওয়্যার সম্পর্কে যা তার কম্পিউটারে ইনস্টল করা হচ্ছে।   তাই অ্যাডওয়্যার ব্যবহারের পূর্বে নিশ্চিত হওয়া উচিত যে, এটা একটি স্বনামধন্য বা নির্ভরযোগ্য  প্রতিষ্ঠানের এবং   এর পলিসিতে  নিরাপত্তা নিশ্চয়তা আছে।</p>
+<p><img src="/images/internet/AE/adware.jpg" border="0" /></p>]]></description>
+			<author>likewarid@gmail.com (ফাহমিদা পলি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:40:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Affiliate</title>
+			<link>/internet/affiliate</link>
+			<guid isPermaLink="true">/internet/affiliate</guid>
+			<description><![CDATA[<p><span class="text_exposed_show"><strong> </strong>ওয়েবসাইট অ্যাফিলিয়েট   হচ্ছে এমন একটি প্রোগ্রাম যা দিয়ে ইন্টারনেট বাজার  পরিচালনা  করা হয়। ১৯৯০  সালে দিকে </span><span class="text_exposed_show">ওয়েবসাইট</span><span class="text_exposed_show"> </span><span class="text_exposed_show">অ্যাফিলিয়েট</span><span class="text_exposed_show"> প্রোগ্রাম চালু হয় যা ইন্টারনেট মার্কেটিং কে নতুন উচ্চতায় নিয়ে যায়। </span><span class="text_exposed_show">অ্যাফিলিয়েট</span><span class="text_exposed_show"> </span><span class="text_exposed_show">প্রোগ্রাম </span><span class="text_exposed_show">এ কোন একটি   কোম্পানি তার  পণ্যের বিজ্ঞাপন <span style="text-decoration: underline;"><a href="/internet/link">লিংক</a></span> বা  ব্যানার আকারে অন্য একটি  ওয়েবসাইট এ  দিয়ে থাকে। এই লিংক  বা ব্যানারের মাধ্যমে মাধ্যমে ঐ কোম্পানির  পণ্যের যে  পরিমান বিক্রয় হয়, তার  ভিত্তিতে কোম্পানি ঐ ওয়েবসাইট কে কমিশন  দিয়ে থাকে।  কিন্তু এই কমিশন অধিকাংশ  ক্ষেত্রে ৫% এর কম, যা খুবই নগণ্য।  উদাহরণসরূপঃ  কেউ amazon.com কোন ওয়েবসাইটে তাদের বিজ্ঞাপন দিতে চায়। </span><span class="text_exposed_show">এখন </span><span class="text_exposed_show">amazon.com-র</span><span class="text_exposed_show"> </span><span class="text_exposed_show">লিংক  বা <span style="text-decoration: underline;"> <a href="/internet/banner-ad">ব্যানার </a></span>সেই ওয়েবসাইটটি তাদের পেজে দিল। এখন যদি কোন ভিজিটর amazon.com এর লিংক বা  ব্যানারে ক্লিক করে এবং  পণ্য ক্রয় করে, তবে   amazon.com  তাদের বিক্রয় থেকে উক্ত ওয়েবসাইটটিকে কমিশন দেবে। </span><span class="text_exposed_show">ওয়েবসাইট </span><span class="text_exposed_show">অ্যাফিলিয়েট</span><span class="text_exposed_show"> এ   বিজ্ঞাপনদাতা কোম্পানিগুলো বেশি লাভবান হয় । তবে </span><span class="text_exposed_show">ওয়েবসাইট</span><span class="text_exposed_show"> </span><span class="text_exposed_show">অ্যাফিলিয়েট</span><span class="text_exposed_show"> তৈরী   করতে এবং পরিচালনা করতে অনেক পরিশ্রমের পাশাপাশি অনেক টাকার ও প্রয়োজন হয়।   তাই ছোট ছোট কোম্পানি গুলো এ থেকে খুব বেশি লাভবান হতে পারে না। এরপরও প্র</span><span class="text_exposed_show">যুক্তি</span><span class="text_exposed_show"> ও   মার্কেট নিয়ে  গবেযণকারী প্রতিষ্ঠান</span><span class="text_exposed_show"> ফরেস্টার রিসার্চ-র মতে, </span><span class="text_exposed_show">অ্যাফিলিয়েট</span><span class="text_exposed_show"> মার্কেটিং</span><span class="text_exposed_show"> হচ্ছে এখন পর্যন্ত সবচেয়ে কার্যকরী অনলাইন </span><span class="text_exposed_show">মার্কেটিং</span><span class="text_exposed_show"> পদ্ধতি।</span><span class="text_exposed_show"><strong> </strong></span></p>
+<p><span class="text_exposed_show"><strong><img src="/images/internet/AE/affiliate.jpg" border="0" /><br /></strong></span></p>]]></description>
+			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:41:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ajax</title>
+			<link>/internet/ajax</link>
+			<guid isPermaLink="true">/internet/ajax</guid>
+			<description><![CDATA[<p>এজ্যাক্স  পূর্ণ অর্থ "Asynchronous  <a href="/internet/javascript"><span style="text-decoration: underline;">JavaScript</span></a> And XML." অর্থাৎ অ্যাসিংক্রোনাস  <span style="text-decoration: underline;"><a href="/internet/javascript">জাভাস্ক্রিপ্ট</a> </span>আর এক্সএমএল এর  মিলিতরূপ হল এজ্যাক্স । <span style="text-decoration: underline;"><a href="/internet/dynamic-website">ডায়নামিক ওয়েবসাইট</a> </span> তৈরির জন্য এটি বহুল পরিমানে  ব্যবহৃত হয়ে থাকে। আর ডায়নামিক কন্টেন্ট  দেখানোর জন্য ওয়েব ডিজাইনাররা  তাদের ওয়েবসাইটে জাভাস্ক্রিপ্ট আর এক্সএমএল  একসাথে ব্যবহার করে। ডেস্কটপ  অ্যাপ্লিকেশনের মত ওয়েব অ্যাপ্লিকেশন তৈরি  করার ইচ্ছা থেকেই  <span style="text-decoration: underline;"><a href="/internet/ajax">এজ্যাক্স</a></span> এর  সৃষ্টি। ওয়েব ব্যবহারকারীদের একটি বোতামে  ক্লিক করা, নতুন পেজ  আসার আগ  পর্যন্ত অপেক্ষা করা, তারপর আরেকটি বোতাম  ক্লিক করা এগুলোর জন্য  অপেক্ষা  করতে হয়। এজ্যাক্সের ব্যবহারের মাধ্যমে এর  সমাধান সম্ভব। 'এজ্যাক্সের' অংশ 'অ্যাসিংক্রোনাস' হল ওয়েব ব্রাউজার থেকে  ওয়েবসার্ভারের কাছে পেজ বা  কনটেন্টের জন্য পাঠানো অনুরোধ, এই অনুরোধ  করা ও সার্ভার থেকে তথ্য  পাওয়ার মধ্যবর্তী সময়ে ব্যবহারকারী বর্তমান  পাতায় তার স্বাভাবিক কাজ  করতে পারেন। এজ্যাক্স এত শক্তিশালী কারন এটি  <span style="text-decoration: underline;"><a href="/internet/client">ক্লায়েন্ট</a></span> সাইডে রান হতে পারে।  এরমানে জাভাস্ক্রীপ্ট একটি ওয়েবপেজ লোড হবার  পরেও <span style="text-decoration: underline;"><a href="/internet/web-server">সার্ভার</a></span>কে রিকোয়েস্ট  পাঠাতে পারে। ফলে পেজে অন্য কনটেন্ট রিলোড হওয়া  ছাড়াই ডাটা সার্ভার হতে  রিসিভ হয়ে পেজে দেখাতে পারে। যদি সার্ভার সাইড  স্ক্রিপ্টিং ল্যাঙ্গুয়েজ <span style="text-decoration: underline;"><a href="/internet/php">পিএইচপি</a></span> বা <a href="/internet/asp"><span style="text-decoration: underline;">এএসপি</span></a> ইউজ করা হত তাহলে সম্পূর্ণ পেজটিকে  নতুন কন্টেন্ট দেখানোর জন্য  রিলোড প্রয়োজন হত।</p>
+<p><img src="/images/internet/AE/ajax.gif" border="0" /></p>
+<p>উপরের ব্যাখ্যাগুলো যদি বুঝতে না পারা যায় তাহলে আরো সহজভাবে ব্যাখ্যা   করা যাক। ফেসবুকের কথাই ধরা যাক, যখন আমরা ফেসবুকের news feed এ অন্যের   স্টাটাসগুলো দেখি। আরো স্টাস্টাস দেখার জন্য পেজের নিচের অংশে older post এ   ক্লিক করি। ফলে পেজ রিলোড হওয়া ছাড়া আমরা আরো নতুন স্টাস্টাস দেখতে পাই।   এটা এজ্যাক্সের কারণে হয়ে থাকে। আবার আমরা যখন গুগলে কোন কিছু সার্চ দিতে   যাই তখন যদি barak লিখি তাহলে দেখা যায় যে সার্চ ইঞ্জিন <a href="/internet/google"><span style="text-decoration: underline;">গুগল</span></a> সয়ংক্রিয়ভাবে  obama  লেখাটিকেও সাজেস্ট করে এটা এজ্যাক্সের কারণেই হয়ে থাকে ।</p>]]></description>
+			<author>likewarid@gmail.com (মাসপি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:43:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>Apache</title>
+			<link>/internet/apache</link>
+			<guid isPermaLink="true">/internet/apache</guid>
+			<description><![CDATA[<p>এপাচি হচ্ছে একটি জনপ্রিয়  <a href="/internet/web-server"><span style="text-decoration: underline;">ওয়েব সার্ভার</span></a>, যার মাধ্যমে ইন্টারনেট দ্বারা একটি কম্পিউটারে এক বা  একাধিক ওয়েবসাইট <a href="/hardware/host"><span style="text-decoration: underline;">হোস্ট</span></a> করা এবং ওয়েব   ব্রাউজারের মাধ্যমে প্রবেশ  করা যায়। ১৯৯৫ সালে এপাচি গ্রুপ এর ১ম ভার্সন  বের করে। ১৯৯৯ সালে এপাচি  গ্রুপ এপাচি সফটওয়্যার ফাউন্ডেশন নামে আত্মপ্রকাশ  করে। এটি একটি অলাভজনক  প্রতিষ্ঠান যা এখন এপ্যাচি ওয়েব সার্ভার সফটওয়্যারের  ডেভেলাপমেন্ট করছে।</p>
+<p>এপাচি-র  জনপ্রিয়তার মূল কারণ হচ্ছে এটি মুক্ত সফটওয়্যার এবং   এটি বিনামূল্যে ব্যবহার করা  যায়। তাছাড়া ওয়েব হোস্টিং কোম্পানিগুলো কম   খরচের জন্য এপাচি নির্ভর ওয়েব সার্ভার ব্যবহার করে। অন্যান্য ওয়েব সার্ভার যেমন   উইন্ডোজ সার্ভারের জন্য বাণিজ্যিক লাইসেন্সের প্রয়োজন হয়। এপ্যাচি লিনাক্স, উইন্ডোজ, ম্যাকিন্টশ অপারেটিং সিস্টেম সার্পোট করে। যেহেতু লিনাক্স ওপেনসোর্স তাই লিনাক্স/এপাচি হচ্ছে সবচেয়ে জনপ্রিয় ওয়েবহোস্টিং  কনফিগারেশন। এপাচি <a href="/internet/php"><span style="text-decoration: underline;">পিএইচপি</span></a>, পাইথন কিংবা পার্ল-র মত সার্ভার সাইট স্ক্রিপ্টিং ল্যাংগুয়েজ ব্যবহারকারি <a href="/internet/static-website"><span style="text-decoration: underline;">স্থির</span></a> এবং <a href="/internet/dynamic-website"><span style="text-decoration: underline;">গতিশীল</span></a> উভয় ধরণের ওয়েবসাইটই   <a href="/hardware/host"><span style="text-decoration: underline;">হোস্ট </span></a>করতে পারে<strong>।</strong></p>
+<p><strong><img src="/images/internet/AE/apache_server.jpg" border="0" /><br /></strong></p>]]></description>
+			<author>likewarid@gmail.com (পাভেল ফাহমি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:45:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>Applet</title>
+			<link>/internet/applet</link>
+			<guid isPermaLink="true">/internet/applet</guid>
+			<description><![CDATA[<p><span class="text_exposed_show"><a href="/internet/applet"><span style="text-decoration: underline;">অ্যাপ্লেট</span></a> ওয়েব পেজ এর সাথে যুক্ত একটি  জাভা  প্রোগ্রাম  যা অনেকটা <a href="/internet/activex"><span style="text-decoration: underline;">অ্যাক্টিভএক্স</span></a> এর মত। সাধারন জাভা  প্রোগ্রাম এবং জাভা </span><span class="text_exposed_show">অ্যাপ্লেট</span><span class="text_exposed_show"> সাথে এর  পার্থক্য হল </span><span class="text_exposed_show">অ্যাপ্লেট</span><span class="text_exposed_show"> লোকাল কম্পিউটারের এর সিস্টেম  রিসোর্সের  সাথে সংযুক্ত  হতে পারেনা। সিস্টেম ফাইল এবং সিরিয়াল ডিভাইস (মডেম, স্ক্যানার,  প্রিন্টার) </span><span class="text_exposed_show">অ্যাপ্লেটে </span><span class="text_exposed_show">ব্যবহার করা যায়না। এর বিশেষত্ব  হল নিরাপত্তা।  এটি  কম্পিউটার  সিস্টেমকে ক্ষতিকর ওয়েব ভাইরাস  থেকে রক্ষা করে। এছাড়া এটি  ওয়েবকে আকর্ষণীয় করে এবং সাধারন জাভা  ল্যাঙ্গুয়েজকে আরও শক্তিশালী  করে। কোন ইউজার  যখন কোন ব্রাউজার এর সাহায্যে  একটি ওয়েবপেজ দেখতে চায় ,তখন </span><span class="text_exposed_show">অ্যাপ্লেট</span><span class="text_exposed_show"> কোড তার সিস্টেমে জাভা ভার্চুয়াল মেশিন এর মাধ্যমে যায় এবং ইউজার পেজটি  দেখতে পান।</span></p>
+<p><span class="text_exposed_show"><img src="/images/javaapplet.gif" border="0" /><br /></span></p>]]></description>
+			<author>likewarid@gmail.com (Invincible সাজ্জাদ)</author>
+			<pubDate>Fri, 01 Jul 2011 02:46:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Archie</title>
+			<link>/internet/archie</link>
+			<guid isPermaLink="true">/internet/archie</guid>
+			<description><![CDATA[<p><span class="text_exposed_show">আর্চি হল এমন একটি প্রোগ্রাম যেটি এফটিপি সার্ভার এর   ফাইলগুলোকে খুজে বের করতে ব্যবহত হয়। </span><span class="text_exposed_show">আর্চি</span><span class="text_exposed_show"> মুলত একটি  নির্দেশক যেটি   নামহীন বা বেনামী সকল </span><span class="text_exposed_show">এফটিপি</span><span class="text_exposed_show"> সার্ভার এ ভিজিট করে এবং সকল প্রকার ডিরেক্টরি এবং   ফাইলের নাম পড়ে।  এছাড়া এ পদ্ধতিতে ফাইল সার্চ করতে  হলে ঐ নির্দিষ্ট   ফাইলটির সঠিক নাম জানা প্রয়োজন। যদিও </span><span class="text_exposed_show">আর্চি</span><span class="text_exposed_show"> একটি সাচ  ইঞ্জিন কিন্তু ওয়েব এর   ব্যবহার বাড়ার সাথে সাথে এটি প্রয়োজনহীন হয়ে পড়ছে।  বেশির ভাগ ফাইল সার্চ অপশন   বিভিন্ন ওয়েব ব্রাউজার যেমনঃ ইন্টারনেট এক্সপ্লোরার, মজিলা ফায়ারফক্স দিয়েই হয়ে থাকে </span><span class="text_exposed_show">। </span><span class="text_exposed_show">আর্চি</span><span class="text_exposed_show"> মুলত তারাই বেশি ব্যবহার করে যাদের </span><span class="text_exposed_show">এফটিপি</span><span class="text_exposed_show"> সার্ভার এ ফাইল সার্চ   সম্পর্কে ভাল ধারনা আছে। </span></p>
+<p><span class="text_exposed_show"><img src="/images/internet/AE/wsarchie.gif" border="0" /><br /></span></p>]]></description>
+			<author>likewarid@gmail.com (মিজানুর রহমান জিহান)</author>
+			<pubDate>Fri, 01 Jul 2011 02:47:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>ASP</title>
+			<link>/internet/asp</link>
+			<guid isPermaLink="true">/internet/asp</guid>
+			<description><![CDATA[<p>এএসপি-র দুই ধরনের অর্থ আছে। একটি "Active Server Page" এবং অন্যটি "Application Service   Provider".</p>
+<p>*** Active Server Page : এটা একটা ওয়েবপেজ যেখানে এএসপি  স্ক্রীপ্ট   সংযুক্ত করা হয়ে থাকে। এটা কম্পিউটারের ছোট প্রোগ্রামের মতই যা  রান হয় তখন, যখন এএসপি বেসড ওয়েব পেজ সনাক্ত হয়। অ্যাক্টিভ সার্ভার পেজের  এক্সটেনশনগুলো .এএসপি(.ASP)   আকারে থাকে। ভিজিটরের ওয়েব ব্রাউজারে আসার আগে এএসপি  পেজগুলো সার্ভারে  প্রসেস  হয়ে থাকে। যেসব ওয়েবসাইটের ওয়েব পেজগুলো  পরিবর্তনশীল যেগুলোতে এএসপি  ইউজ  করা হয়। উদাহরনসরূপ- এএসপি স্ক্রীপ্ট ভিজিটরের  জিপ কোড নিয়ে বা  ভিজিটর থেকে  কোন তথ্য নিয়ে ঐ ওয়েবপেজের কন্টেন্টগুলো  কাস্টমাইজ করে তারপর  ভিজিটরকে  দেখায়। এএসপি টেকনোলজী ডিজাইন করেছে  মাইক্রোসফট। আর এএসপি  স্ক্রীপ্ট লেখা  হয়েছে মাইক্রোসফট ভিজুয়াল বেসিক দিয়ে।</p>
+<p><img src="/images/activeserver.jpg" border="0" /></p>
+<p>***  Application Service Providerঃ এর মানে হল তৃতীয় কোন কোম্পানি যারা    কাস্টমারকে সফটওয়্যার বেসড সার্ভিস দিয়ে থাকে। বিভিন্ন প্রতিষ্ঠান   বিভিন্ন  তথ্য স্বল্পমূল্যে এবং সহজে পাওয়ার জন্য এদের সার্ভিস নিয়ে থাকে।   এদের পাঁচ  ধরনের সার্ভিস রয়েছে।</p>
+<p>ক. লোকাল বা রিজিওনাল এএসপি: ছোট ব্যবসা  প্রতিষ্ঠানকে বিভিন্ন ধরনের  এপ্লিকেশন সার্ভিস এরা দিয়ে থাকে।</p>
+<p>খ.স্পেশালিস্ট এএসপিঃ বিশেষ কোন নির্দিষ্ট দরকারের জন্য এরা নির্দিষ্ট  সার্ভিস  দিয়ে থাকে। যেমন- ওয়েব সার্ভিস।</p>
+<p>গ.ভার্টিকাল মার্কেট এএসপি: এরা বিশেষ কিছু  প্রতিষ্ঠানকে সার্ভিস দিয়ে থাকে  যেমন - শিক্ষা প্রতিষ্ঠান।</p>
+<p>ঘ. এন্টারপ্রাইজ এএসপি: বড় বড় ব্যবস্যা প্রতিষ্ঠানের জন্য বিভিন্ন সার্ভিস  এবং  তথ্য সুবিধা দিয়ে থাকে।</p>
+<p>ঙ. ভলিউম বিজনেস এএসপি: ছোট এবং মাঝারি আয়তনের  শিল্পকে বিশাল আয়তনে  সার্ভিস দিয়ে থাকে।</p>
+<p><img src="/images/internet/AE/applicationserver.gif" border="0" /></p>]]></description>
+			<author>likewarid@gmail.com (মাসপি)</author>
+			<pubDate>Fri, 01 Jul 2011 02:48:53 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
