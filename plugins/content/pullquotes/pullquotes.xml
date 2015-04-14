@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD plugin 1.0//EN" "http://dev.joomla.org/xml/1.5/plugin-install.dtd" >
+<extension version="1.6" type="plugin" group="content">
+	<name>Content - PullQuotes</name>
+	<creationDate>2011-05-06</creationDate>
+	<author>Jignesh Borad</author>
+	<authorEmail>jigneshborad@gmail.com</authorEmail>
+	<authorUrl>http://joomlacode.org/gf/user/jigneshborad</authorUrl>
+	<copyright>(C) 2009-2011 Jignesh Borad</copyright>
+	<license>GNU/GPL V3</license>
+	<version>1.0b01</version>
+	<description>
+	Currently installed version 1.0b01 on this site.
+	Pullquote plugin can convert {pullquote}quotetext{/pullquote} from your article in to a nice pull-quote. It is also equipped with features to customise as per your needs.
+	Please visit project site for more details and documentation wiki. 
+	http://forge.joomla.org/gf/project/pullquotes/
+
+	Tested with PHP Version 5.3.2
+	</description>
+	<files>
+	   <folder>img</folder>
+	   <filename plugin="pullquotes">pullquotes.php</filename>
+	</files>
+	<config>
+	<fields name="params">
+	<fieldset name="basic">
+		<field name="plugincode" type="text" size= "15" default="pullquote" label="Plugin code" description="The code which is used to be placed in the article between {} to trigger plugin. &lt;br/&gt; Default pullquote." />
+	   	<field name="width" type="text" default="30%" label="Width" description="Width of the quotation box" size="15" />
+	   	<field name="height" type="text" default="auto" label="Height" description="Height of the quotation box" size="15" />
+  		<field name="fontsize" type="text" default="1.5em" label="Font Size" description="Font Size of the quote" size="15" />
+	   	<field name="fontstyle" type="list" default="normal" label="Font Style" description="Font style of the quote"  >
+	   		<option value="normal">normal</option>
+  			<option value="italic">italic</option>
+	   		<option value="oblique">oblique</option>
+  			<option value="inherit">inherit</option>
+  		</field>
+  		<field name="fontweight" type="list" default="bold" label="Font Weight" description="Font weight of the quote"  >
+	   		<option value="normal">normal</option>
+  			<option value="bold">bold</option>
+	   		<option value="bolder">bolder</option>
+  			<option value="lighter">lighter</option>
+  			<option value="inherit">inherit</option>
+  			<option value="100">100</option>
+  			<option value="200">200</option>
+  			<option value="300">300</option>
+  			<option value="400">400</option>
+  			<option value="500">500</option>
+  			<option value="600">600</option>
+  			<option value="700">700</option>
+  			<option value="800">800</option>
+  			<option value="900">900</option>
+  		</field>
+	   	<field name="position" type="list" default="right" label="Position" description="Alignment of quote in the article" >
+	   		<option value="left">Left</option>
+  			<option value="right">Right</option>
+  		</field>
+	   	<field name="positionclear" type="radio" default="0" label="Clear" description="If set to yes, left will become leftmost, and right will become rightmost" >
+	   		<option value="0">No</option>
+  			<option value="1">Yes</option>
+  		</field>
+		
+		<field name="imagemethod" type="list" default="inline" label="Quote Method" description="There are three methods by which the quote can be applied. &lt;br/&gt; 1) &lt;b&gt;topleft &lt;/b&gt; - image in background on top-left corner. Only start image will be used. &lt;br/&gt; 2) &lt;b&gt;bottomright &lt;/b&gt; - image in background on bottom-right corner. Only end image will be used. &lt;br/&gt; 3) &lt;b&gt;inline &lt;/b&gt; - image in line with text. Both start and end images are used.">
+	   		<option value="topleft">TopLeft Corner</option>
+	   		<option value="bottomright">BottomRight Corner</option>
+	   		<option value="inline">inline</option>
+		</field>
+		<field name="imagestart" type="imagelist" default="quote5_25_start.png" directory="/plugins/content/pullquotes/img" label="Image Start" description="Image to display before a highlighted word"></field>
+		<field name="imageend" type="imagelist" default="quote5_25_end.png" directory="/plugins/content/pullquotes/img" label="Image End" description="Image to display after a highlighted word"></field>
+		<field name="textindent" type="text" default="0em" label="Text Indent" description="Text Indent for the first line" size="15"></field>
+		<field name="textalign" type="list" default="left" label="Text Alignment" description="Alignment of quote text in the box">
+	   		<option value="left">Left</option>
+	   		<option value="center">Center</option>
+  			<option value="right">Right</option>
+		</field>
+	</fieldset>
+	<fieldset name="advanced">
+		<field name="fgcolor" type="text" default="#333333" label="Box forceground color (text)" description="Font color of the quote" size="15"></field>
+		<field name="bgcolor" type="text" default="transparent" label="Box background color (border and caption)" description="Box background color" size="15"></field>
+  		<field name="margin" type="text" default="1px" label="Margin" description="Distance of the box from surrounding article text" size="15" />
+	   	<field name="padding" type="text" default="5px 2px 2px 5px" label="Padding" description="Distance of quote from pullquote box (inside)" size="15" />
+		<field name="css" type="textarea" default="border:none; line-height:1.5em;" label="Additional CSS-Styles" description="If you want to provide more styles which are not covered in the parameters above, you can put them here." cols="25" rows="5"></field>
+	</fieldset>
+	</fields>
+	</config>
+</extension>

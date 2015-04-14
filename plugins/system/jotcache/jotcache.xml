@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- version $Id: jotcache.xml,v 1.5 2011/04/07 12:35:42 Vlado Exp $ -->
+<extension version="1.6" type="plugin" group="system" method="upgrade">
+  <name>JotCache</name>
+  <author>Vladimir Kanich</author>
+  <creationDate>April 2011</creationDate>
+  <copyright>(C) 2010-2011 Vladimir Kanich. All rights reserved.</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <authorEmail>contact_on_web_site@kanich.net</authorEmail>
+  <authorUrl>http://www.kanich.net/radio/site/</authorUrl>
+  <version>1.3.0</version>
+  <description>JOTCACHE_PLG_DESC</description>
+  <files>
+    <filename plugin="jotcache">jotcache.php</filename>
+    <filename plugin="jotcache">jotcache/JotcacheFileCache.php</filename>
+    <filename plugin="jotcache">jotcache/UserAgent.php</filename>
+    <filename plugin="jotcache">jotcache/UserAgentStringParser.php</filename>
+  </files>
+
+  <config>
+  <fields name="params">
+    <fieldset name="basic" addfieldpath="/plugins/system/jotcache/jotcache/">
+    <field name="browsercache" type="radio" default="0" label="JOTCACHE_BROWSER_LBL" description="JOTCACHE_BROWSER_DESC">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </field>
+    <field name="cachetime" type="text" default="15" label="JOTCACHE_LIFE_LBL" description="JOTCACHE_LIFE_DESC"/>
+    <field name="cachecompress" type="radio" default="0" label="JOTCACHE_CMP_LBL" description="JOTCACHE_CMP_DESC">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </field>
+    <field name="cachemark" type="radio" default="1" label="JOTCACHE_MARK_LBL" description="JOTCACHE_MARK_DESC">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </field>
+    <field name="autoclean" type="text" default="" label="JOTCACHE_CLEAN_LBL" description="JOTCACHE_CLEAN_DESC"/>
+    <field name="cleanlog" type="radio" default="0" label="JOTCACHE_LOG_LBL" description="JOTCACHE_LOG_DESC">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </field> 
+    <field name="cacheclient" type="list" default="" multiple="true" label="JOTCACHE_CLIENT_LBL"
+ description="JOTCACHE_CLIENT_DESC">
+      <option value="msie6.0">IE 6.0</option>
+      <option value="msie7.0">IE 7.0</option>
+      <option value="msie8.0">IE 8.0</option>
+      <option value="msie9.0">IE 9.0</option>
+      <option value="mobile">Mobile excl.</option>
+    </field>
+    <field name="cacheexclude" type="textarea" default="" label="JOTCACHE_EXCLUDE_LBL" description="JOTCACHE_EXCLUDE_DESC" rows="3" cols="35" />
+    </fieldset>
+  </fields>
+  </config>
+</extension>

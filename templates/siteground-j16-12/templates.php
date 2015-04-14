@@ -1,0 +1,2 @@
+<!-- SIDE BEGIN --><!-- SIDE END -->
+<p>টেকনোলজি বেসিক, <span style="font-size: xx-small;">Created by</span> <span style="font-size: medium;"><span style="color: #ff0000;"><a class="sgfooter" href="http://www.nstu.edu.bd/" target="_blank">Department of Computer Science &amp; Telecommunication Engineering,</a></span> <span style="color: #000000;"><a class="sgfooter" href="http://www.nstu.edu.bd/" target="_blank">Noakhali Science and Technology University (NSTU)</a></span>&nbsp;</span></p>
